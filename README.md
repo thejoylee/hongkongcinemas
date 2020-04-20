@@ -1,0 +1,2 @@
+# hongkongcinemas
+Hong Kong cinemas were a popular form of entertainment spanning diverse populations during the twentieth century now. Due to the tight residential space and growing population, cinemas were a place to escape, to see friends, a pinnacle of community in villages all the way to the upper echelons of society. This visualization maps the spread of cinemas across Hong Kong territory, the political contexts that gave way to their development, and the narratives of individuals whose everyday lives had been shaped by the cultural experience of a cinema.
