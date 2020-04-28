@@ -1,0 +1,6005 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.147413,22.2845796 ]
+    },
+    "properties": {
+    "Name":"Tung Hing Theatre",
+    "year_open":1867,
+    "year_closed":1912,
+    "Status":"Closed",
+    "lifespan":45,
+    "formatted_address":"Po Hing Fong, Sheung Wan, Hong Kong",
+    "category":"performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.155706,22.282826 ]
+    },
+    "properties": {
+    "Name":"Theatre Royal",
+    "year_open":1869,
+    "year_closed":1933,
+    "Status":"Closed",
+    "lifespan":64,
+    "formatted_address":"Queen's Road Central, Central, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1542034,22.2841836 ]
+    },
+    "properties": {
+    "Name":"Ko Shing Theatre",
+    "year_open":1875,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":97,
+    "formatted_address":"117 Queen's Road Central, Central, Hong Kong",
+    "category":"chinese, cantonese, japanese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1404657,22.2879417 ]
+    },
+    "properties": {
+    "Name":"Bijou Theatre",
+    "year_open":1899,
+    "year_closed":1899,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Des Voeux Rd W, Hong Kong",
+    "category":"performances, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1473023,22.2844089 ]
+    },
+    "properties": {
+    "Name":"Chung King Theatre",
+    "year_open":1900,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Tai On Terrace, Tai Ping Shan, Hong Kong",
+    "category":"cantonese, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1498615,22.2843058 ]
+    },
+    "properties": {
+    "Name":"Hei Loi Garden",
+    "year_open":1900,
+    "year_closed":1904,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"140 Hollywood Rd, Tai Ping Shan, Hong Kong",
+    "category":"chinese, english, american"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1463971,22.2866074 ]
+    },
+    "properties": {
+    "Name":"Kok Sun Garden",
+    "year_open":1902,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Kiu Fat Building, 115-119 Queen's Rd W, Sheung Wan, Hong Kong",
+    "category":"chinese, cantonese, foreign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1555478,22.283944 ]
+    },
+    "properties": {
+    "Name":"New Hei Loi Garden",
+    "year_open":1902,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"93 Queen's Road Central, Central, Hong Kong",
+    "category":"chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1562438,22.2846221 ]
+    },
+    "properties": {
+    "Name":"Empire Cinematograph~Wo Ping Theatre / 奄派影畫戲院~和平戲院",
+    "year_open":1903,
+    "year_closed":1921,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"83 Des Voeux Rd Central, Central, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1371404,22.2865041 ]
+    },
+    "properties": {
+    "Name":"Tai Ping Theatre",
+    "year_open":1904,
+    "year_closed":1981,
+    "Status":"Closed",
+    "lifespan":77,
+    "formatted_address":"Wah Ming Centre Block B, 421 Queen's Rd W, Sai Wan, Hong Kong",
+    "category":"performances, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156116,22.2806919 ]
+    },
+    "properties": {
+    "Name":"Cinematograph Pathe",
+    "year_open":1907,
+    "year_closed":1907,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Wyndham St, Central, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15687,22.2806028 ]
+    },
+    "properties": {
+    "Name":"Alexandra Cinematograph",
+    "year_open":1908,
+    "year_closed":1909,
+    "Status":"Closed",
+    "lifespan":1,
+    "formatted_address":"Zetland St, Central, Hong Kong",
+    "category":"performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1559,22.280659 ]
+    },
+    "properties": {
+    "Name":"Salon-Cinema Theatre",
+    "year_open":1909,
+    "year_closed":1910,
+    "Status":"Closed",
+    "lifespan":1,
+    "formatted_address":"15 Wyndham St, Central, Hong Kong",
+    "category":"performances, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156116,22.2806919 ]
+    },
+    "properties": {
+    "Name":"Star Cinematograph",
+    "year_open":1909,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Wyndham St, Central, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156238,22.283883 ]
+    },
+    "properties": {
+    "Name":"Victoria Cinematograph",
+    "year_open":1909,
+    "year_closed":1910,
+    "Status":"Closed",
+    "lifespan":1,
+    "formatted_address":"Des Voeux Rd Central, Hong Kong",
+    "category":"chinese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156116,22.2806919 ]
+    },
+    "properties": {
+    "Name":"Coronet Theatre",
+    "year_open":1910,
+    "year_closed":1925,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"Wyndham St, Central, Hong Kong",
+    "category":"performances, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1730954,22.2745052 ]
+    },
+    "properties": {
+    "Name":"Grand Theatre",
+    "year_open":1910,
+    "year_closed":1956,
+    "Status":"Closed",
+    "lifespan":46,
+    "formatted_address":"Queen's Rd E, Hong Kong",
+    "category":"english, chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156238,22.283883 ]
+    },
+    "properties": {
+    "Name":"Wo Ping Theatre",
+    "year_open":1910,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":70,
+    "formatted_address":"Des Voeux Rd Central, Hong Kong",
+    "category":"chinese, english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1526911,22.2843776 ]
+    },
+    "properties": {
+    "Name":"Kau Yue Fong Theatre",
+    "year_open":1911,
+    "year_closed":1949,
+    "Status":"Closed",
+    "lifespan":38,
+    "formatted_address":"1 Kau U Fong, Central, Hong Kong",
+    "category":"chinese, cantonese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156238,22.283883 ]
+    },
+    "properties": {
+    "Name":"Victoria Theatre",
+    "year_open":1911,
+    "year_closed":1920,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"Des Voeux Rd Central, Hong Kong",
+    "category":"chinese, english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.155706,22.282826 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Theatre",
+    "year_open":1916,
+    "year_closed":1922,
+    "Status":"Closed",
+    "lifespan":6,
+    "formatted_address":"Queen's Road Central, Central, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1721746,22.2988123 ]
+    },
+    "properties": {
+    "Name":"Palisade",
+    "year_open":1916,
+    "year_closed":1916,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Tsim Sha Tsui, Hong Kong",
+    "category":"english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1495555,22.2839304 ]
+    },
+    "properties": {
+    "Name":"Assembly Hall of the Central Bui...",
+    "year_open":1918,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"51 Bridges St, Tai Ping Shan, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1709202,22.3086039 ]
+    },
+    "properties": {
+    "Name":"Kwong Chee Theatre",
+    "year_open":1919,
+    "year_closed":1968,
+    "Status":"Closed",
+    "lifespan":49,
+    "formatted_address":"7 Kansu St, Yau Ma Tei, Hong Kong",
+    "category":"chinese, silent, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1710157,22.3109155 ]
+    },
+    "properties": {
+    "Name":"Open Air Cinema at the Club de R...",
+    "year_open":1920,
+    "year_closed":null,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Nathan Rd, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.174106,22.3008283 ]
+    },
+    "properties": {
+    "Name":"Kowloon Theatre",
+    "year_open":1921,
+    "year_closed":1923,
+    "Status":"Closed",
+    "lifespan":2,
+    "formatted_address":"Kimberley Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1536893,22.286463 ]
+    },
+    "properties": {
+    "Name":"World Theatre",
+    "year_open":1921,
+    "year_closed":1981,
+    "Status":"Closed",
+    "lifespan":60,
+    "formatted_address":"Infinitus Plaza, 199 Des Voeux Rd Central, Sheung Wan, Hong Kong",
+    "category":"chinese, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1712439,22.2963893 ]
+    },
+    "properties": {
+    "Name":"Star Theatre",
+    "year_open":1922,
+    "year_closed":1961,
+    "Status":"Closed",
+    "lifespan":39,
+    "formatted_address":"Hankow Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2225156,22.2815457 ]
+    },
+    "properties": {
+    "Name":"Cheong Lok Theatre",
+    "year_open":1924,
+    "year_closed":1969,
+    "Status":"Closed",
+    "lifespan":45,
+    "formatted_address":"Holy Cross Path, Sai Wan Ho, Hong Kong",
+    "category":"japanese, chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1887233,22.3055658 ]
+    },
+    "properties": {
+    "Name":"Mei Chiu Theatre",
+    "year_open":1924,
+    "year_closed":1935,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"Hung Hom, Hong Kong",
+    "category":"chinese, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156678,22.282162 ]
+    },
+    "properties": {
+    "Name":"Queen's Theatre",
+    "year_open":1924,
+    "year_closed":2007,
+    "Status":"Closed",
+    "lifespan":83,
+    "formatted_address":"31 Queen's Road Central, Central, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1391304,22.2862034 ]
+    },
+    "properties": {
+    "Name":"Sai Yuen Theatre",
+    "year_open":1924,
+    "year_closed":1954,
+    "Status":"Closed",
+    "lifespan":30,
+    "formatted_address":"7 Water St, Sai Wan, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.22458,22.280537 ]
+    },
+    "properties": {
+    "Name":"Shaukiwan Theatre",
+    "year_open":1924,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":46,
+    "formatted_address":"205 Shau Kei Wan Rd, Shau Kei Wan, Hong Kong",
+    "category":"english, chinese, cantonese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1495555,22.2839304 ]
+    },
+    "properties": {
+    "Name":"Chinese YMCA Assembly Hall / 大會堂 YMCA",
+    "year_open":1926,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":69,
+    "formatted_address":"51 Bridges St, Tai Ping Shan, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2070287,22.3286293 ]
+    },
+    "properties": {
+    "Name":"New Kowloon Cinema Theatre",
+    "year_open":1926,
+    "year_closed":1941,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"95 Kai Yan St, Kowloon Bay, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1699425,22.3100836 ]
+    },
+    "properties": {
+    "Name":"New Tai Yat Theatre",
+    "year_open":1926,
+    "year_closed":1964,
+    "Status":"Closed",
+    "lifespan":38,
+    "formatted_address":"Public Square St, Yau Ma Tei, Hong Kong",
+    "category":"chinese, cantonese, japanese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.183089,22.2783025 ]
+    },
+    "properties": {
+    "Name":"Lee Theatre",
+    "year_open":1927,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":64,
+    "formatted_address":"99 Percival St, Causeway Bay, Hong Kong",
+    "category":"chinese, cantonese, english, cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.162932,22.3269953 ]
+    },
+    "properties": {
+    "Name":"Ming Sing Theatre",
+    "year_open":1927,
+    "year_closed":1971,
+    "Status":"Closed",
+    "lifespan":44,
+    "formatted_address":"Lai Luen Building, 236 Lai Chi Kok Rd, Tong Mi, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1699,22.3117553 ]
+    },
+    "properties": {
+    "Name":"Majestic Theatre",
+    "year_open":1928,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Man Ming Ln, Yau Ma Tei, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1713874,22.308472 ]
+    },
+    "properties": {
+    "Name":"Po Hing Theatre",
+    "year_open":1928,
+    "year_closed":1955,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"Nathan Rd & Gascoigne Rd, Yau Ma Tei, Hong Kong",
+    "category":"cantonese, chinese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.150737,22.284415 ]
+    },
+    "properties": {
+    "Name":"Central Theatre",
+    "year_open":1930,
+    "year_closed":1971,
+    "Status":"Closed",
+    "lifespan":41,
+    "formatted_address":"270 Queen's Road Central, Tai Ping Shan, Hong Kong",
+    "category":"chinese, english, japanese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1692254,22.312422 ]
+    },
+    "properties": {
+    "Name":"Yau Ma Tei Theatre",
+    "year_open":1930,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Yau Ma Tei Theatre, 6 Waterloo Rd, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english, japanese, performances, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0283576,22.2049282 ]
+    },
+    "properties": {
+    "Name":"Cheung Chau Theatre",
+    "year_open":1931,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Chung Hing Back St, Cheung Chau, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1565078,22.2818205 ]
+    },
+    "properties": {
+    "Name":"King's Theatre",
+    "year_open":1931,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":59,
+    "formatted_address":"34 Queen's Road Central, Central, Hong Kong",
+    "category":"chinese, cantonese, mandarin, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1675541,22.3058544 ]
+    },
+    "properties": {
+    "Name":"Koon Chung Theatre",
+    "year_open":1931,
+    "year_closed":1939,
+    "Status":"Closed",
+    "lifespan":8,
+    "formatted_address":"Jordan Rd, Yau Ma Tei, Hong Kong",
+    "category":"chinese, silent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1665664,22.3234684 ]
+    },
+    "properties": {
+    "Name":"Mongkok Theatre",
+    "year_open":1931,
+    "year_closed":1949,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Grand Metro, 123 Prince Edward Rd W, Prince Edward, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1687841,22.3235438 ]
+    },
+    "properties": {
+    "Name":"Prince's Theatre",
+    "year_open":1931,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":39,
+    "formatted_address":"760 Nathan Rd, Prince Edward, Hong Kong",
+    "category":"english, chinese, cantonese, japanese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.192803,22.2884683 ]
+    },
+    "properties": {
+    "Name":"United China Open-Air Cinema",
+    "year_open":1931,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"North Point, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1693386,22.3192999 ]
+    },
+    "properties": {
+    "Name":"Victory Theatre",
+    "year_open":1931,
+    "year_closed":1952,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"Nathan Rd, Mong Kok, Hong Kong",
+    "category":"chinese, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1716047,22.2774849 ]
+    },
+    "properties": {
+    "Name":"Garden Theatre",
+    "year_open":1932,
+    "year_closed":1932,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Hennessy Rd & Luard Rd, Wan Chai, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1688408,22.3099781 ]
+    },
+    "properties": {
+    "Name":"Kwong Ming Theatre",
+    "year_open":1932,
+    "year_closed":1964,
+    "Status":"Closed",
+    "lifespan":32,
+    "formatted_address":"3 Public Square St, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english, cantonese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1745837,22.2794642 ]
+    },
+    "properties": {
+    "Name":"Oriental Theatre",
+    "year_open":1932,
+    "year_closed":1981,
+    "Status":"Closed",
+    "lifespan":49,
+    "formatted_address":"Fleming Rd, Wan Chai, Hong Kong",
+    "category":"cantonese, chinese, performances, japanese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1773361,22.2799613 ]
+    },
+    "properties": {
+    "Name":"China Fleet Club Theatre",
+    "year_open":1933,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":59,
+    "formatted_address":"Gloucester Rd, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.170967,22.3086814 ]
+    },
+    "properties": {
+    "Name":"Alhambra Theatre",
+    "year_open":1934,
+    "year_closed":1958,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"383-389C Nathan Rd, Yau Ma Tei, Hong Kong",
+    "category":"performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1632088,22.3308495 ]
+    },
+    "properties": {
+    "Name":"Pei Ho Theatre",
+    "year_open":1934,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":43,
+    "formatted_address":"114 Pei Ho St, Un Chau, Hong Kong",
+    "category":"chinese, cantonese, japanese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1731267,22.2771903 ]
+    },
+    "properties": {
+    "Name":"Southorn Playground",
+    "year_open":1934,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"130 Hennessy Rd, Wan Chai, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1699,22.3117553 ]
+    },
+    "properties": {
+    "Name":"Man Ming Theatre",
+    "year_open":1937,
+    "year_closed":1941,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"Man Ming Ln, Yau Ma Tei, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1696201,22.3168722 ]
+    },
+    "properties": {
+    "Name":"Nathan Theatre",
+    "year_open":1938,
+    "year_closed":1948,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Sun Hing Building, 603-609A Nathan Rd, Mong Kok, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1769649,22.2770532 ]
+    },
+    "properties": {
+    "Name":"Cathay Theatre",
+    "year_open":1939,
+    "year_closed":1984,
+    "Status":"Closed",
+    "lifespan":45,
+    "formatted_address":"Wan Chai Rd, Wan Chai, Hong Kong",
+    "category":"english, chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1862315,22.2796791 ]
+    },
+    "properties": {
+    "Name":"Eastern District Theatre",
+    "year_open":1940,
+    "year_closed":1953,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"Yee Wo St, Causeway Bay, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.164604,22.324726 ]
+    },
+    "properties": {
+    "Name":"Good World Theatre",
+    "year_open":1940,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":32,
+    "formatted_address":"199 Tong Mi Rd, Prince Edward, Hong Kong",
+    "category":"english, chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1584732,22.2774694 ]
+    },
+    "properties": {
+    "Name":"Helena May of Institute for Women",
+    "year_open":1940,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"35 Garden Rd, Central, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1766163,22.2785972 ]
+    },
+    "properties": {
+    "Name":"National Theatre",
+    "year_open":1940,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":33,
+    "formatted_address":"Lockhart Rd, Hong Kong",
+    "category":"cantonese, chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1705107,22.3195854 ]
+    },
+    "properties": {
+    "Name":"Sun Wah Theatre",
+    "year_open":1940,
+    "year_closed":1958,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Argyle St, Mong Kok, Hong Kong",
+    "category":"chinese, english, mandarin, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.16016,22.33095 ]
+    },
+    "properties": {
+    "Name":"Sham Shui Po Theatre",
+    "year_open":1941,
+    "year_closed":1941,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Yen Chow St, Sham Shui Po, Hong Kong",
+    "category":"cantonese, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1557615,22.2485246 ]
+    },
+    "properties": {
+    "Name":"Island Theatre",
+    "year_open":1943,
+    "year_closed":1985,
+    "Status":"Closed",
+    "lifespan":42,
+    "formatted_address":"Aberdeen Main Rd, Aberdeen, Hong Kong",
+    "category":"japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.167065,22.445694 ]
+    },
+    "properties": {
+    "Name":"Tai Po Theatre",
+    "year_open":1943,
+    "year_closed":1958,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"Tai Po Market, Tai Po, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0318435,22.4447307 ]
+    },
+    "properties": {
+    "Name":"Tung Lok Theatre",
+    "year_open":1943,
+    "year_closed":1987,
+    "Status":"Closed",
+    "lifespan":44,
+    "formatted_address":"Chun Chu House, 1-15 Castle Peak Road (Yuen Long), Yuen Long, Hong Kong",
+    "category":"chinese, japanese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1877565,22.3283762 ]
+    },
+    "properties": {
+    "Name":"International Theatre",
+    "year_open":1948,
+    "year_closed":1955,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Genius Court, 18 Fuk Lo Tsun Rd, Kowloon City, Hong Kong",
+    "category":"chinese, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1710157,22.3109155 ]
+    },
+    "properties": {
+    "Name":"Broadway Cinema--Mong Kok",
+    "year_open":1949,
+    "year_closed":1966,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"Nathan Rd, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1726855,22.2998217 ]
+    },
+    "properties": {
+    "Name":"Broadway Cinema--The One",
+    "year_open":1949,
+    "year_closed":1966,
+    "Status":"Open",
+    "lifespan":17,
+    "formatted_address":"100 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1705107,22.3195854 ]
+    },
+    "properties": {
+    "Name":"Broadway Theatre",
+    "year_open":1949,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":47,
+    "formatted_address":"Argyle St, Mong Kok, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1697827,22.3050095 ]
+    },
+    "properties": {
+    "Name":"Liberty Theatre",
+    "year_open":1949,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":48,
+    "formatted_address":"26E Jordan Rd, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1862315,22.2796791 ]
+    },
+    "properties": {
+    "Name":"Roxy Theatre",
+    "year_open":1949,
+    "year_closed":1974,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"Yee Wo St, Causeway Bay, Hong Kong",
+    "category":"chinese, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0753753,22.4249178 ]
+    },
+    "properties": {
+    "Name":"Global Theatre",
+    "year_open":1950,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":46,
+    "formatted_address":"Shek Kong, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1766163,22.2785972 ]
+    },
+    "properties": {
+    "Name":"Globe Theatre",
+    "year_open":1950,
+    "year_closed":1971,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"Lockhart Rd, Hong Kong",
+    "category":"cantonese, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1169899,22.370088 ]
+    },
+    "properties": {
+    "Name":"Grand Theatre",
+    "year_open":1950,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":49,
+    "formatted_address":"Chung On St, Tsuen Wan, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0295139,22.4441534 ]
+    },
+    "properties": {
+    "Name":"Kwong Wah Theatre",
+    "year_open":1950,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":41,
+    "formatted_address":"9 Tai Tong Rd, Yuen Long, Hong Kong",
+    "category":"cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1960817,22.2914024 ]
+    },
+    "properties": {
+    "Name":"Luna Park Cinema",
+    "year_open":1950,
+    "year_closed":1954,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"1 Yuet Yuen St, North Point, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.217995,22.285911 ]
+    },
+    "properties": {
+    "Name":"Taikoo Theatre",
+    "year_open":1950,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"L110A, Eslite 1/F, Taikoo Shing Road, Taikoo Shing Hong Kong Island East, Hong Kong, 18 City Garden Rd, Quarry Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1093283,22.3754427 ]
+    },
+    "properties": {
+    "Name":"Tsuen Wan Theatre",
+    "year_open":1950,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"Castle Peak Rd (Tsuen Wan), Tsuen Wan, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1850307,22.3072792 ]
+    },
+    "properties": {
+    "Name":"Wing Lok Theatre",
+    "year_open":1950,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Bulkeley St, Hung Hom, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1726781,22.2788601 ]
+    },
+    "properties": {
+    "Name":"Golden City Theatre",
+    "year_open":1951,
+    "year_closed":1958,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"77 Gloucester Rd, Wan Chai, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.134395,22.28586 ]
+    },
+    "properties": {
+    "Name":"Kam Ling Theatre (Woo Hop St)",
+    "year_open":1951,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"1 Woo Hop St, Sai Wan, Hong Kong",
+    "category":"english, chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.140309,22.285522 ]
+    },
+    "properties": {
+    "Name":"Ray Theatre",
+    "year_open":1951,
+    "year_closed":1971,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"102 Third St, Sai Ying Pun, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1595518,22.3352212 ]
+    },
+    "properties": {
+    "Name":"Zenith Theatre",
+    "year_open":1951,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"Pratas St, Sham Shui Po, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1852116,22.2795527 ]
+    },
+    "properties": {
+    "Name":"Capitol Theatre",
+    "year_open":1952,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"Jardine's Bazaar, Causeway Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.195394,22.29035 ]
+    },
+    "properties": {
+    "Name":"Empire~State Theatre / 璇宮~皇都戲院",
+    "year_open":1952,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":45,
+    "formatted_address":"291 King's Rd, North Point, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1653724,22.3247208 ]
+    },
+    "properties": {
+    "Name":"Great World Theatre",
+    "year_open":1952,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Lai Chi Kok Rd, Mong Kok, Hong Kong",
+    "category":"english, chinese, japanese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1881727,22.3289603 ]
+    },
+    "properties": {
+    "Name":"Loong Shing Theatre",
+    "year_open":1952,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"Lion Rock Rd, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1724579,22.3001825 ]
+    },
+    "properties": {
+    "Name":"Princess Theatre",
+    "year_open":1952,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"130 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1695822,22.2774816 ]
+    },
+    "properties": {
+    "Name":"Rialto Theatre",
+    "year_open":1952,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"Landale St, Wan Chai, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1953485,22.2901828 ]
+    },
+    "properties": {
+    "Name":"State Theatre",
+    "year_open":1952,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":45,
+    "formatted_address":"King's Rd & Tin Chong St, North Point, Hong Kong",
+    "category":"english, chinese, cantonese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1597728,22.335927 ]
+    },
+    "properties": {
+    "Name":"Apollo Theatre",
+    "year_open":1953,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"164 Castle Peak Rd, Lei Cheng Uk, Hong Kong",
+    "category":"chinese, english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1422757,22.497501 ]
+    },
+    "properties": {
+    "Name":"Luen Wo Theatre",
+    "year_open":1953,
+    "year_closed":2010,
+    "Status":"Closed",
+    "lifespan":57,
+    "formatted_address":"1 Luen Fat St, Fanling, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1623557,22.3299286 ]
+    },
+    "properties": {
+    "Name":"Palace Theatre",
+    "year_open":1953,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":19,
+    "formatted_address":"Pei Ho St, Sham Shui Po, Hong Kong",
+    "category":"chinese, english, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.156896,22.244275 ]
+    },
+    "properties": {
+    "Name":"Pearl Theatre",
+    "year_open":1953,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"31 Ap Lei Chau Main St, Ap Lei Chau, Hong Kong",
+    "category":"cantonese, chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1694325,22.3179638 ]
+    },
+    "properties": {
+    "Name":"Ritz Theatre",
+    "year_open":1953,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":19,
+    "formatted_address":"Grand Tower, 625 Nathan Rd, Kowloon City, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1487825,22.2849932 ]
+    },
+    "properties": {
+    "Name":"Gay Theatre",
+    "year_open":1954,
+    "year_closed":1975,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"Sai St, Tai Ping Shan, Hong Kong",
+    "category":"cinemascope"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2247374,22.2803858 ]
+    },
+    "properties": {
+    "Name":"Golden Star Theatre",
+    "year_open":1954,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Shau Kei Wan Rd, Hong Kong",
+    "category":"adult, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1862315,22.2796791 ]
+    },
+    "properties": {
+    "Name":"Hoover Theatre",
+    "year_open":1954,
+    "year_closed":1981,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"Yee Wo St, Causeway Bay, Hong Kong",
+    "category":"adult, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1681803,22.3131317 ]
+    },
+    "properties": {
+    "Name":"Kam Wah Theatre",
+    "year_open":1954,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"Kam Wah Building, 831A-831L Canton Rd, Yau Ma Tei, Hong Kong",
+    "category":"chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2098716,22.2883531 ]
+    },
+    "properties": {
+    "Name":"Metropole Theatre",
+    "year_open":1954,
+    "year_closed":1963,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"King's Rd, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1697708,22.3175727 ]
+    },
+    "properties": {
+    "Name":"Paramount Theatre",
+    "year_open":1954,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Shantung Street, Mong Kok, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1828051,22.2796537 ]
+    },
+    "properties": {
+    "Name":"New York Theatre",
+    "year_open":1955,
+    "year_closed":1982,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"Percival St, Hong Kong",
+    "category":"chinese, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1878154,22.381151 ]
+    },
+    "properties": {
+    "Name":"Shatin Theatre",
+    "year_open":1955,
+    "year_closed":1975,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Sha Tin Centre St, Sha Tin, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.12518,22.502573 ]
+    },
+    "properties": {
+    "Name":"Golden Dragon Theatre",
+    "year_open":1956,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"Choi Yuen Rd, Sheung Shui, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9861436,22.3766954 ]
+    },
+    "properties": {
+    "Name":"Kesarbahadur Hall",
+    "year_open":1956,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":38,
+    "formatted_address":"84 Castle Peak Road (Castle Peak Bay), So Kwun Wat, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1701583,22.3184674 ]
+    },
+    "properties": {
+    "Name":"Victoria Theatre",
+    "year_open":1956,
+    "year_closed":1976,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Nelson St, Mong Kok, Hong Kong",
+    "category":"chinese, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1717102,22.308041 ]
+    },
+    "properties": {
+    "Name":"Astor Theatre",
+    "year_open":1957,
+    "year_closed":1987,
+    "Status":"Closed",
+    "lifespan":30,
+    "formatted_address":"380 Nathan Rd, Yau Ma Tei, Hong Kong",
+    "category":"english, chinese, performances, cantonese, mandarin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0293347,22.2050592 ]
+    },
+    "properties": {
+    "Name":"Dragon Gate~Golden Dragon Theatre (Cheung Chau) / 金門~金龍戲院",
+    "year_open":1957,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"Tai Tsoi Yuen Garden, Tai Choi Yuen Rd, Cheung Chau, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1671219,22.4485756 ]
+    },
+    "properties": {
+    "Name":"Golden Palace Theatre",
+    "year_open":1957,
+    "year_closed":1960,
+    "Status":"Closed",
+    "lifespan":3,
+    "formatted_address":"Kwong Fuk Rd, Tai Po, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1265987,22.5034146 ]
+    },
+    "properties": {
+    "Name":"Hang Lok Theatre",
+    "year_open":1957,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":40,
+    "formatted_address":"G/F, 134-140A San Fung Ave, Sheung Shui, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2387556,22.2594877 ]
+    },
+    "properties": {
+    "Name":"Astra Cinema",
+    "year_open":1958,
+    "year_closed":1982,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"Cape Collinson Rd, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1730954,22.2745052 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Grand Theatre",
+    "year_open":1958,
+    "year_closed":1976,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Queen's Rd E, Hong Kong",
+    "category":"indian, english, cantonese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2714425,22.3807531 ]
+    },
+    "properties": {
+    "Name":"Sai Kung Theatre",
+    "year_open":1958,
+    "year_closed":1979,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"Yi Chun St, Sai Kung, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1422757,22.497501 ]
+    },
+    "properties": {
+    "Name":"Fan Ling Theatre",
+    "year_open":1959,
+    "year_closed":2010,
+    "Status":"Open",
+    "lifespan":51,
+    "formatted_address":"1 Luen Fat St, Fanling, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1705107,22.3195854 ]
+    },
+    "properties": {
+    "Name":"Gala Theatre (Mongkok)",
+    "year_open":1959,
+    "year_closed":1979,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Argyle St, Mong Kok, Hong Kong",
+    "category":"english, chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1693386,22.3192999 ]
+    },
+    "properties": {
+    "Name":"Royal Theatre",
+    "year_open":1960,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":30,
+    "formatted_address":"Nathan Rd, Mong Kok, Hong Kong",
+    "category":"english, chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1881666,22.3138835 ]
+    },
+    "properties": {
+    "Name":"Wah Lok Theatre",
+    "year_open":1960,
+    "year_closed":1972,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"Kai Ming St, To Kwa Wan, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.164879,22.321503 ]
+    },
+    "properties": {
+    "Name":"Ying King Theatre",
+    "year_open":1960,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Fir St, Tai Kok Tsui, Hong Kong",
+    "category":"chinese, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1835907,22.3095747 ]
+    },
+    "properties": {
+    "Name":"Sky Theatre",
+    "year_open":1961,
+    "year_closed":1973,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"Wei King Building, 275 Chatham Rd N, Lo Lung Hang, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0288603,22.4448556 ]
+    },
+    "properties": {
+    "Name":"Yuen Long Theatre",
+    "year_open":1961,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Fook Hong St, Yuen Long, Hong Kong",
+    "category":"chinese, english, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.161713,22.2823732 ]
+    },
+    "properties": {
+    "Name":"City Hall Theatre",
+    "year_open":1962,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Hong Kong City Hall, 5 Edinburgh Pl, Central, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2314308,22.3174058 ]
+    },
+    "properties": {
+    "Name":"Golden Valley Theatre",
+    "year_open":1962,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"Hiu Kwong St, Sau Mau Ping, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9809693,22.3850691 ]
+    },
+    "properties": {
+    "Name":"Great Wall Theatre",
+    "year_open":1962,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Castle Peak Road (Castle Peak Bay), Tuen Mun, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1714779,22.3034998 ]
+    },
+    "properties": {
+    "Name":"London Theatre",
+    "year_open":1962,
+    "year_closed":1988,
+    "Status":"Closed",
+    "lifespan":26,
+    "formatted_address":"Chuang's London Plaza, 219 Nathan Rd, Yau Ma Tei, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1156682,22.3680241 ]
+    },
+    "properties": {
+    "Name":"Lung Wah Theatre",
+    "year_open":1962,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":34,
+    "formatted_address":"117 Chung On St, Tsuen Wan, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1616361,22.2822389 ]
+    },
+    "properties": {
+    "Name":"Studio One",
+    "year_open":1962,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":33,
+    "formatted_address":"Hong Kong, 中環愛丁堡廣場5號五號",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1148815,22.3692129 ]
+    },
+    "properties": {
+    "Name":"August Moon Theatre",
+    "year_open":1963,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"118 Chuen Lung St, Tsuen Wan, Hong Kong",
+    "category":"english, chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1702007,22.3313207 ]
+    },
+    "properties": {
+    "Name":"Metro Theatre",
+    "year_open":1963,
+    "year_closed":1974,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"Ample Building Block East, 3 Woh Chai St, Hong Kong",
+    "category":"cantonese, chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1992988,22.2917041 ]
+    },
+    "properties": {
+    "Name":"Odeon Theatre",
+    "year_open":1963,
+    "year_closed":1981,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"1 Marble Rd, North Point, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1708432,22.2963245 ]
+    },
+    "properties": {
+    "Name":"Sands Theatre",
+    "year_open":1963,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"Peking Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2247899,22.3136386 ]
+    },
+    "properties": {
+    "Name":"Silver Theatre",
+    "year_open":1963,
+    "year_closed":2009,
+    "Status":"Closed",
+    "lifespan":46,
+    "formatted_address":"Yue Man Square, Kwun Tong, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1093283,22.3754427 ]
+    },
+    "properties": {
+    "Name":"Waldorf Theatre",
+    "year_open":1963,
+    "year_closed":1986,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"Castle Peak Rd (Tsuen Wan), Tsuen Wan, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2279743,22.2774794 ]
+    },
+    "properties": {
+    "Name":"Winner Theatre",
+    "year_open":1963,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Ka Yu Building, 1-7 Nam On St, Shau Kei Wan, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1704139,22.2789252 ]
+    },
+    "properties": {
+    "Name":"East Town Theatre",
+    "year_open":1964,
+    "year_closed":1974,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Fenwick St, Wan Chai, Hong Kong",
+    "category":"english, chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.11744,22.3688554 ]
+    },
+    "properties": {
+    "Name":"Good View Theatre",
+    "year_open":1964,
+    "year_closed":1993,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"Ham Tin St, Tsuen Wan, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1702205,22.3166153 ]
+    },
+    "properties": {
+    "Name":"Hollywood Theatre",
+    "year_open":1964,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"Soy St, Mong Kok, Hong Kong",
+    "category":"mandarin, chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1876085,22.3216115 ]
+    },
+    "properties": {
+    "Name":"Ruby Theatre",
+    "year_open":1964,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":30,
+    "formatted_address":"207 Ma Tau Wai Rd, To Kwa Wan, Hong Kong",
+    "category":"chinese, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.225494,22.313544 ]
+    },
+    "properties": {
+    "Name":"Bonds~UA Bonds Theatre",
+    "year_open":1965,
+    "year_closed":2002,
+    "Status":"Closed",
+    "lifespan":37,
+    "formatted_address":"11 Tung Yan St, Kwun Tong, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2002626,22.3388253 ]
+    },
+    "properties": {
+    "Name":"Jumbo Theatre",
+    "year_open":1965,
+    "year_closed":1982,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"Choi Hung Rd, San Po Kong, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.188001,22.310001 ]
+    },
+    "properties": {
+    "Name":"Mandarin Theatre",
+    "year_open":1965,
+    "year_closed":1980,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"41 Ma Tau Wai Rd, Hok Yuen, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2002626,22.3388253 ]
+    },
+    "properties": {
+    "Name":"Metropole Theatre",
+    "year_open":1965,
+    "year_closed":1982,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"Choi Hung Rd, San Po Kong, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.225494,22.313544 ]
+    },
+    "properties": {
+    "Name":"UA-Bonds Cinema",
+    "year_open":1965,
+    "year_closed":2002,
+    "Status":"Closed",
+    "lifespan":37,
+    "formatted_address":"11 Tung Yan St, Kwun Tong, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9973997,22.4326187 ]
+    },
+    "properties": {
+    "Name":"Hung Shui Kiu Theatre",
+    "year_open":1966,
+    "year_closed":1978,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"1 Tan Kwai Tsuen Rd, Hung Shui Kiu, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1887951,22.2795695 ]
+    },
+    "properties": {
+    "Name":"Isis Theatre",
+    "year_open":1966,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":33,
+    "formatted_address":"47 Moreton Terrace, Causeway Bay, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.188012,22.33563 ]
+    },
+    "properties": {
+    "Name":"Kam Kwok Theatre",
+    "year_open":1966,
+    "year_closed":1971,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"6 Heng Lam St, Lo Fu Ngam, Hong Kong",
+    "category":"chinese, english, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0631416,22.440265 ]
+    },
+    "properties": {
+    "Name":"Kam Tin Theatre",
+    "year_open":1966,
+    "year_closed":1970,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"131 Kam Tin Rd, Kam Tin, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1648827,22.320235 ]
+    },
+    "properties": {
+    "Name":"Mayfair Theatre",
+    "year_open":1966,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"Mayfair Centre, 4 Anchor St, Tai Kok Tsui, Hong Kong",
+    "category":"chinese, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.179776,22.2782478 ]
+    },
+    "properties": {
+    "Name":"Nam Yang Theatre",
+    "year_open":1966,
+    "year_closed":1989,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"Tin Lok Ln, Wan Chai, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1955403,22.3339043 ]
+    },
+    "properties": {
+    "Name":"Paris Theatre",
+    "year_open":1966,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":26,
+    "formatted_address":"9 Ning Yuen St, San Po Kong, Hong Kong",
+    "category":"chinese, english, japanese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1834605,22.2812956 ]
+    },
+    "properties": {
+    "Name":"President Theatre",
+    "year_open":1966,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"President Theatre, 517 Jaffe Rd, Causeway Bay, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1693544,22.316765 ]
+    },
+    "properties": {
+    "Name":"South China Theatre",
+    "year_open":1966,
+    "year_closed":2005,
+    "Status":"Closed",
+    "lifespan":39,
+    "formatted_address":"180 Portland St, Mong Kok, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2002626,22.3388253 ]
+    },
+    "properties": {
+    "Name":"Asia Theatre",
+    "year_open":1967,
+    "year_closed":1982,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"Choi Hung Rd, San Po Kong, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1636602,22.3231171 ]
+    },
+    "properties": {
+    "Name":"Golden Crown Theatre",
+    "year_open":1967,
+    "year_closed":1988,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"74 Bedford Rd, Tai Kok Tsui, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.165982,22.448009 ]
+    },
+    "properties": {
+    "Name":"Po Wah Theatre",
+    "year_open":1967,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Nam Shing St, Tai Po, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.194827,22.336045 ]
+    },
+    "properties": {
+    "Name":"Ritz Theatre",
+    "year_open":1967,
+    "year_closed":2005,
+    "Status":"Closed",
+    "lifespan":38,
+    "formatted_address":"84 Choi Hung Rd, San Po Kong, Hong Kong",
+    "category":"chinese, cantonese, english, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1689467,22.3040949 ]
+    },
+    "properties": {
+    "Name":"Universal Theatre",
+    "year_open":1967,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"48-50 Bowring Street, 48-50 Bowring St, Yau Ma Tei, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1234149,22.3704243 ]
+    },
+    "properties": {
+    "Name":"Yik Chi Theatre",
+    "year_open":1967,
+    "year_closed":1987,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"New Territories, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1569328,22.3365119 ]
+    },
+    "properties": {
+    "Name":"Federal Theatre",
+    "year_open":1968,
+    "year_closed":1977,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"Fuk Wing St, Cheung Sha Wan, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.220962,22.2829884 ]
+    },
+    "properties": {
+    "Name":"Kam Ming Theatre",
+    "year_open":1968,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"60-64 Shau Kei Wan Rd, Sai Wan Ho, Hong Kong",
+    "category":"chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1689,22.2964113 ]
+    },
+    "properties": {
+    "Name":"Grand Ocean Cinema",
+    "year_open":1969,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"5 Canton Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1763354,22.2761865 ]
+    },
+    "properties": {
+    "Name":"Imperial Cinema",
+    "year_open":1969,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":35,
+    "formatted_address":"Vine Centre 2, 29 Burrows St, Wan Chai, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1858291,22.2810532 ]
+    },
+    "properties": {
+    "Name":"Jade Theatre & Pearl Theatre",
+    "year_open":1969,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"Pearl City Mansion, 22 Paterson St, Causeway Bay, Hong Kong",
+    "category":"chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1193225,22.3710038 ]
+    },
+    "properties": {
+    "Name":"May Wah Theatre",
+    "year_open":1969,
+    "year_closed":null,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"135-143 Castle Peak Rd (Tsuen Wan), Tsuen Wan, Hong Kong",
+    "category":"cantonese, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1690089,22.3186292 ]
+    },
+    "properties": {
+    "Name":"Rex Theatre",
+    "year_open":1969,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"242 Portland St, Mong Kok, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2364028,22.2626599 ]
+    },
+    "properties": {
+    "Name":"Chai Wan Theatre",
+    "year_open":1970,
+    "year_closed":1993,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"Chai Wan Cinema Building, 121 Wan Tsui Rd, Chai Wan, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1695647,22.32359 ]
+    },
+    "properties": {
+    "Name":"Empress Theatre",
+    "year_open":1970,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"Nullah Rd, Prince Edward, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2227499,22.3159838 ]
+    },
+    "properties": {
+    "Name":"Life Theatre",
+    "year_open":1970,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":34,
+    "formatted_address":"Kwun Tong Theatre Building Block A, 9 Tung Ming St, Ngau Tau Kok, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.19208,22.281995 ]
+    },
+    "properties": {
+    "Name":"Park Theatre",
+    "year_open":1970,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":27,
+    "formatted_address":"180 Tung Lo Wan Rd, Causeway Bay, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1858291,22.2810532 ]
+    },
+    "properties": {
+    "Name":"Pearl Theatre",
+    "year_open":1970,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":28,
+    "formatted_address":"Pearl City Mansion, 22 Paterson St, Causeway Bay, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1709903,22.306258 ]
+    },
+    "properties": {
+    "Name":"GH Washington Theatre",
+    "year_open":1971,
+    "year_closed":1993,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"Kensington Plaza, 92-98 Parkes St, Yau Ma Tei, Hong Kong",
+    "category":"english, chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.185835,22.306134 ]
+    },
+    "properties": {
+    "Name":"Lux Theatre",
+    "year_open":1971,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2J Bulkeley St, Hung Hom, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1270085,22.2831177 ]
+    },
+    "properties": {
+    "Name":"Fox Theatre",
+    "year_open":1972,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"91 Catchick St, Kennedy Town, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1887082,22.319511 ]
+    },
+    "properties": {
+    "Name":"Full Moon Theatre",
+    "year_open":1972,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"47 Pau Chung St, To Kwa Wan, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.200052,22.291325 ]
+    },
+    "properties": {
+    "Name":"Sunbeam Theatre & Super 3 Cinema",
+    "year_open":1972,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"423 King's Rd, North Point, Hong Kong",
+    "category":"chinese, english, cantonese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2023752,22.3467847 ]
+    },
+    "properties": {
+    "Name":"Manning Theatre",
+    "year_open":1973,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"57 Yuk Wah Cres, Tsz Wan Shan, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.140558,22.3357916 ]
+    },
+    "properties": {
+    "Name":"Century Cinema",
+    "year_open":1974,
+    "year_closed":2010,
+    "Status":"Closed",
+    "lifespan":36,
+    "formatted_address":"Broadway, Mei Foo Sun Chuen, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2168419,22.3223854 ]
+    },
+    "properties": {
+    "Name":"Ace Theatre",
+    "year_open":1975,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"2 On Wah St, Kwun Tong, Hong Kong",
+    "category":"chinese, english, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1674605,22.3341073 ]
+    },
+    "properties": {
+    "Name":"Nam Cheong Theatre",
+    "year_open":1975,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"223-237 Nam Cheong St, Shek Kip Mei, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.160153,22.335123 ]
+    },
+    "properties": {
+    "Name":"Prince Theatre",
+    "year_open":1975,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"181 Castle Peak Rd, Om Yau, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1603311,22.3348174 ]
+    },
+    "properties": {
+    "Name":"Princess Theatre",
+    "year_open":1975,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"162 Un Chau St, Om Yau, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.147911,22.249863 ]
+    },
+    "properties": {
+    "Name":"Scala Theatre",
+    "year_open":1975,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"1 Hing Wo St, Tin Wan, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.170839,22.305524 ]
+    },
+    "properties": {
+    "Name":"Golden Harvest~Newport Theatre (YauMaTei) / 嘉禾~新寶戲院",
+    "year_open":1977,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"23 Jordan Rd, Yau Ma Tei, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1708277,22.2801464 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Arts Centre Shouson Th...",
+    "year_open":1977,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2 Harbour Rd, Wan Chai, Hong Kong",
+    "category":"artistic, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1708277,22.3055206 ]
+    },
+    "properties": {
+    "Name":"Newport Theatre",
+    "year_open":1977,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":23,
+    "formatted_address":"Sino Cheer Plaza, 23-29 Jordan Rd, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1396323,22.3695565 ]
+    },
+    "properties": {
+    "Name":"Yiu Sing Theatre",
+    "year_open":1977,
+    "year_closed":1993,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"Shek Yam Rd, Kwai Chung, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1797787,22.3411605 ]
+    },
+    "properties": {
+    "Name":"Academic Community Hall",
+    "year_open":1978,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"224 Waterloo Rd, Kowloon Tong, Hong Kong",
+    "category":"artistic, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1620031,22.3323738 ]
+    },
+    "properties": {
+    "Name":"Golden Theatre",
+    "year_open":1978,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Golden Centre, 94 Yen Chow St, Un Chau, Hong Kong",
+    "category":"mandarin, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.187931,22.306045 ]
+    },
+    "properties": {
+    "Name":"Hung Hom Theatre",
+    "year_open":1978,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"Shop 30B, G/F, Tak Man Street, Whampoa Estate, Hung Hom, Kowloon, Hung Hom, Hong Kong",
+    "category":"chinese, cantonese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1876387,22.3069363 ]
+    },
+    "properties": {
+    "Name":"Hunghom Theatre",
+    "year_open":1978,
+    "year_closed":1991,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"Wing Wah Building, 26 Man Tai St, Hung Hom, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1724666,22.3069693 ]
+    },
+    "properties": {
+    "Name":"M2 Theatre",
+    "year_open":1978,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"10 Saigon St, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1724666,22.3069693 ]
+    },
+    "properties": {
+    "Name":"Majestic Cinema",
+    "year_open":1978,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":22,
+    "formatted_address":"10 Saigon St, Yau Ma Tei, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0413675,22.2830679 ]
+    },
+    "properties": {
+    "Name":"Peng Chau Theatre",
+    "year_open":1978,
+    "year_closed":1988,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Peng Chau, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.974499,22.3975518 ]
+    },
+    "properties": {
+    "Name":"Victoria Theatre",
+    "year_open":1978,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Ming Ngai St, San Hui, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.13969,22.252569 ]
+    },
+    "properties": {
+    "Name":"Fortuna ~ HK Opera House / 華富閣戲院 ~ 香江大舞台",
+    "year_open":1979,
+    "year_closed":2010,
+    "Status":"Closed",
+    "lifespan":31,
+    "formatted_address":"Wah Fu Estate, 2 Wah Lok Path, Pok Fu Lam, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1390583,22.252528 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Opera House",
+    "year_open":1979,
+    "year_closed":2008,
+    "Status":"Closed",
+    "lifespan":29,
+    "formatted_address":"World Fair Court, 4 Wah Lok Path, Waterfall Bay, Hong Kong",
+    "category":"chinese, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1621681,22.3320473 ]
+    },
+    "properties": {
+    "Name":"Cineplex Theatre",
+    "year_open":1980,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"131 Fuk Wing St, Un Chau, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1709787,22.2937034 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Space Museum Lecture Hall",
+    "year_open":1980,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"10 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1842189,22.2815279 ]
+    },
+    "properties": {
+    "Name":"Palace Theatre",
+    "year_open":1980,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"World Trade Centre, 280 Gloucester Rd, Causeway Bay, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1709787,22.2937034 ]
+    },
+    "properties": {
+    "Name":"Stanley Ho Space Theatre",
+    "year_open":1980,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"10 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1126286,22.370898 ]
+    },
+    "properties": {
+    "Name":"Tsuen Wan Town Hall Cultural Act...",
+    "year_open":1980,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Tsuen Wan Town Hall, 72 Tai Ho Rd, Tsuen Wan, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2125663,22.3243965 ]
+    },
+    "properties": {
+    "Name":"Cosmo Theatre",
+    "year_open":1981,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"33號 Wai Yip St, Kowloon Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2385955,22.2942809 ]
+    },
+    "properties": {
+    "Name":"Full House Theatre (Yau Tong) / 滿堂戲院",
+    "year_open":1981,
+    "year_closed":1990,
+    "Status":"0",
+    "lifespan":9,
+    "formatted_address":"Ka Wing St, Yau Tong, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2125663,22.3243965 ]
+    },
+    "properties": {
+    "Name":"Global Theatre",
+    "year_open":1981,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"33號 Wai Yip St, Kowloon Bay, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2388842,22.2950889 ]
+    },
+    "properties": {
+    "Name":"Golden Harbour City Theatre",
+    "year_open":1981,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"2 Ka Wing St, Yau Tong, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1666573,22.4475677 ]
+    },
+    "properties": {
+    "Name":"Po Wah Theatre",
+    "year_open":1981,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"15 Tai Wing Ln, Tai Po, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.226752,22.329832 ]
+    },
+    "properties": {
+    "Name":"Shun Lee Theatre",
+    "year_open":1981,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Shun Lee Shopping Centre Phase 2, Cha Liu Au, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2067606,22.419625 ]
+    },
+    "properties": {
+    "Name":"Sir Run Run Shaw Hall",
+    "year_open":1981,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"The Chinese University of Hong Kong, Central Ave, Ma Liu Shui, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.153739,22.24953 ]
+    },
+    "properties": {
+    "Name":"Aberdeen~UA Aberdeen Theatre / 香港仔戲院~UA香港仔",
+    "year_open":1982,
+    "year_closed":2003,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"17 Nam Ning St, Aberdeen, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.12877,22.5014239 ]
+    },
+    "properties": {
+    "Name":"Auditorium of the North District...",
+    "year_open":1982,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2 Lung Wan St, Sheung Shui, Hong Kong",
+    "category":"cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1590074,22.3358764 ]
+    },
+    "properties": {
+    "Name":"Capital Theatre",
+    "year_open":1982,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Graces Court, 298 Un Chau St, Om Yau, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.217477,22.286721 ]
+    },
+    "properties": {
+    "Name":"Gala Theatre (Cityplaza)",
+    "year_open":1982,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"18 Tai Koo Shing Rd, Quarry Bay, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.234421,22.3081355 ]
+    },
+    "properties": {
+    "Name":"Golden City Theatre",
+    "year_open":1982,
+    "year_closed":1993,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"49 Kai Tin Rd, Lam Tin, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1538679,22.2487869 ]
+    },
+    "properties": {
+    "Name":"UA Aberdeen Cinema",
+    "year_open":1982,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Nam Ning St, Aberdeen, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.238361,22.263618 ]
+    },
+    "properties": {
+    "Name":"Wing Wah Theatre",
+    "year_open":1982,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"333 Chai Wan Rd, Chai Wan, Hong Kong",
+    "category":"cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1866906,22.3141766 ]
+    },
+    "properties": {
+    "Name":"Ko Shan Theatre",
+    "year_open":1983,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"77 Ko Shan Rd, Hung Hom, Hong Kong",
+    "category":"performances, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1384557,22.3391397 ]
+    },
+    "properties": {
+    "Name":"Paladium Theatre",
+    "year_open":1983,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"Lai Wan Rd, Lai Chi Kok, Hong Kong",
+    "category":"performances, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1371432,22.341465 ]
+    },
+    "properties": {
+    "Name":"Ruby Palace Theatre",
+    "year_open":1983,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"King Lai Path, Lai Chi Kok, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0342388,22.4426794 ]
+    },
+    "properties": {
+    "Name":"Union Theatre",
+    "year_open":1983,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"Fung Kwan St, Yuen Long, Hong Kong",
+    "category":"chinese, english, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0311931,22.4455312 ]
+    },
+    "properties": {
+    "Name":"Golden Dragon Theatre",
+    "year_open":1984,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"2 Shui Che Kwun St, Yuen Long, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2163021,22.3244614 ]
+    },
+    "properties": {
+    "Name":"Good Luck Theatre",
+    "year_open":1984,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"77 Ngau Tau Kok Rd, Kowloon Bay, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1685171,22.2994257 ]
+    },
+    "properties": {
+    "Name":"Harbour City Cinema",
+    "year_open":1984,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Canton Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.171793,22.316765 ]
+    },
+    "properties": {
+    "Name":"Kam Sing Theatre",
+    "year_open":1984,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"60 Soy St, Mong Kok, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0331193,22.4424704 ]
+    },
+    "properties": {
+    "Name":"Merryland Theatre",
+    "year_open":1984,
+    "year_closed":2002,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"21 Fung Kam St, Yuen Long, Hong Kong",
+    "category":"cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1718495,22.3167823 ]
+    },
+    "properties": {
+    "Name":"Newport Theatre",
+    "year_open":1984,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Newport Cinema, 60-64 Soy St, Mong Kok, Hong Kong",
+    "category":"chinese, english, cantonese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1218025,22.3723225 ]
+    },
+    "properties": {
+    "Name":"Triumph Theatre",
+    "year_open":1984,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"Hong Kong, Tsuen Wan, 綠楊新邨",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1922847,22.3841796 ]
+    },
+    "properties": {
+    "Name":"Acme Theatre",
+    "year_open":1985,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Sha Tin Fun City, 7 Lek Yuen St, Sha Tin, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17486,22.281049 ]
+    },
+    "properties": {
+    "Name":"Columbia Classics Cinema",
+    "year_open":1985,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"23 Harbour Rd, Wan Chai, Hong Kong",
+    "category":"artistic, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1285658,22.3556836 ]
+    },
+    "properties": {
+    "Name":"Kwai Fong Theatre",
+    "year_open":1985,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"15 Kwai Yi Rd, Kwai Fong, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9781624,22.391605 ]
+    },
+    "properties": {
+    "Name":"New Town Theatre",
+    "year_open":1985,
+    "year_closed":2005,
+    "Status":"Closed",
+    "lifespan":20,
+    "formatted_address":"1 Tuen Lee St, Tuen Mun, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.196493,22.379597 ]
+    },
+    "properties": {
+    "Name":"Opal Theatre",
+    "year_open":1985,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"7 Sha Kok St, Sha Tin Wai, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.214219,22.327218 ]
+    },
+    "properties": {
+    "Name":"Rainbow Theatre",
+    "year_open":1985,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"Shop L, G/F., Tak Bo Garden, 3 Ngau Tau Kok Road, Kowloon Bay, Ngau Tau Kok, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.170445,22.452909 ]
+    },
+    "properties": {
+    "Name":"Silver Star Cinema",
+    "year_open":1985,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Hong Kong, Tai Po, On Tai Rd, 1號大埔廣場第五座",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1922847,22.3841796 ]
+    },
+    "properties": {
+    "Name":"Sun Sing Theatre",
+    "year_open":1985,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Sha Tin Fun City, 7 Lek Yuen St, Sha Tin, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1886372,22.3817578 ]
+    },
+    "properties": {
+    "Name":"UA Shatin Cinema",
+    "year_open":1985,
+    "year_closed":2018,
+    "Status":"Closed",
+    "lifespan":33,
+    "formatted_address":"18-19 Sha Tin Centre St, Sha Tin, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1759366,22.2766389 ]
+    },
+    "properties": {
+    "Name":"ABC Cathay Theatre",
+    "year_open":1986,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Cathay Lodge, 125 Wan Chai Rd, Wan Chai, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2018517,22.2917357 ]
+    },
+    "properties": {
+    "Name":"Golden Hung Kai Theatre",
+    "year_open":1986,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"Tung Po Building, 483-497 King's Rd, North Point, Hong Kong",
+    "category":"cantonese, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.171104,22.45177 ]
+    },
+    "properties": {
+    "Name":"Hung Kai Theatre",
+    "year_open":1986,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"8 On Pong Rd, Tai Po, Hong Kong",
+    "category":"chinese, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.135963,22.365895 ]
+    },
+    "properties": {
+    "Name":"Hung Sing Theatre",
+    "year_open":1986,
+    "year_closed":1992,
+    "Status":"Closed",
+    "lifespan":6,
+    "formatted_address":"1 Ta Chuen Ping St, Shek Lei, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.027807,22.4438424 ]
+    },
+    "properties": {
+    "Name":"Yuen Long Palace Theatre",
+    "year_open":1986,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"26 Yu King Square, Yuen Long, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2163021,22.3244614 ]
+    },
+    "properties": {
+    "Name":"Amoy~Broadway (Kowloon Bay) / 淘大戲院~百老滙 (九龍灣)",
+    "year_open":1987,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":8,
+    "formatted_address":"77 Ngau Tau Kok Rd, Kowloon Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1706768,22.3169345 ]
+    },
+    "properties": {
+    "Name":"Broadway Mongkok Cinema",
+    "year_open":1987,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Chung Shun Building, 6-12 Sai Yeung Choi St S, Mong Kok, Hong Kong",
+    "category":"english, chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2164407,22.2841574 ]
+    },
+    "properties": {
+    "Name":"Grand Kornhill Cinema",
+    "year_open":1987,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2 Kornhill Rd, Kornhill, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.034521,22.441991 ]
+    },
+    "properties": {
+    "Name":"Hollywood Theatre",
+    "year_open":1987,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"9 Fung Yau St S, Yuen Long, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.214219,22.327218 ]
+    },
+    "properties": {
+    "Name":"Oscar Theatre",
+    "year_open":1987,
+    "year_closed":1990,
+    "Status":"Closed",
+    "lifespan":3,
+    "formatted_address":"Shop L, G/F., Tak Bo Garden, 3 Ngau Tau Kok Road, Kowloon Bay, Ngau Tau Kok, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9767864,22.3917136 ]
+    },
+    "properties": {
+    "Name":"Tuen Mun Town Hall Cultural Acti...",
+    "year_open":1987,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Tuen Mun Town Hall, 3 Tuen Hi Rd, Tuen Mun, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.171981,22.323 ]
+    },
+    "properties": {
+    "Name":"UA Cine Moko",
+    "year_open":1987,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"193 Prince Edward Rd W, Mong Kok, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1209392,22.3663586 ]
+    },
+    "properties": {
+    "Name":"Warwick Theatre",
+    "year_open":1987,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"Texaco Rd, Tsuen Wan, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1791412,22.3000686 ]
+    },
+    "properties": {
+    "Name":"Chinachem Golden Plaza Cinema",
+    "year_open":1988,
+    "year_closed":2013,
+    "Status":"Closed",
+    "lifespan":25,
+    "formatted_address":"Chinachem Golden Plaza, 77 Mody Rd, Tsim Sha Tsui East, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1769119,22.2803654 ]
+    },
+    "properties": {
+    "Name":"Cine Art House",
+    "year_open":1988,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"Sun Hung Kai Centre, 30 Harbour Rd, Wan Chai, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1731385,22.2833754 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Convention and Exhibit...",
+    "year_open":1988,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Expo Dr, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1520369,22.3390858 ]
+    },
+    "properties": {
+    "Name":"Lai Sun Cinema",
+    "year_open":1988,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"680 Cheung Sha Wan Rd, Cheung Sha Wan, Hong Kong",
+    "category":"chinese, cantonese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2041504,22.3829983 ]
+    },
+    "properties": {
+    "Name":"Odeon Theatre",
+    "year_open":1988,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Chap Wai Kon St, Sha Tin, Hong Kong",
+    "category":"chinese, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1941118,22.2898512 ]
+    },
+    "properties": {
+    "Name":"Olympia Theatre",
+    "year_open":1988,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Power St, North Point, Hong Kong",
+    "category":"chinese, english, japanese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.97579,22.393116 ]
+    },
+    "properties": {
+    "Name":"Tuen Mun Theatre",
+    "year_open":1988,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"2 Tuen Lung St, Tuen Mun, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.103363,22.3621864 ]
+    },
+    "properties": {
+    "Name":"Dragon Palace (Tsing Yi) / 龍都戲院",
+    "year_open":1989,
+    "year_closed":2007,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"6 Tam Kon Shan Rd, Tsing Yi, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2399396,22.2767315 ]
+    },
+    "properties": {
+    "Name":"Flower Cinema",
+    "year_open":1989,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"100 Shing Tai Rd, Pak Sha Wan, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1908596,22.3050239 ]
+    },
+    "properties": {
+    "Name":"GH Whampoa Cinema",
+    "year_open":1989,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Level 2, 7 Tak On St, Whampoa Garden, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1550362,22.2490583 ]
+    },
+    "properties": {
+    "Name":"Golden Harbour Theatre",
+    "year_open":1989,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Port Centre, 38 Chengtu Rd, Aberdeen, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1023164,22.3474872 ]
+    },
+    "properties": {
+    "Name":"Green-View Theatre",
+    "year_open":1989,
+    "year_closed":1997,
+    "Status":"Closed",
+    "lifespan":8,
+    "formatted_address":"Tsing Yi, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1709787,22.2937034 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Cultural Centre Grand ...",
+    "year_open":1989,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"10 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9750672,22.3988352 ]
+    },
+    "properties": {
+    "Name":"Paris London New York Hollywood ...",
+    "year_open":1989,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Hong Lai Garden Block 2, 153 Tuen Mun Heung Sze Wui Rd, Tuen Mun, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1497877,22.2862048 ]
+    },
+    "properties": {
+    "Name":"Sheung Wan Civic Centre Theatre",
+    "year_open":1989,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Sheung Wan Municipal Services Building, 345 Queen's Road Central, Sheung Wan, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1653936,22.2776447 ]
+    },
+    "properties": {
+    "Name":"UA Pacific Place Cinemas",
+    "year_open":1989,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":17,
+    "formatted_address":"One Pacific Place, 88 Queensway, Admiralty, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1717102,22.308041 ]
+    },
+    "properties": {
+    "Name":"Astor Classics Cinema",
+    "year_open":1990,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"380 Nathan Rd, Yau Ma Tei, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1113744,22.3704413 ]
+    },
+    "properties": {
+    "Name":"Broadway Theatre Tsuen Wan",
+    "year_open":1990,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"4 - 30 Tai Pa St, Tsuen Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0306155,22.4449778 ]
+    },
+    "properties": {
+    "Name":"Chicago Theatre",
+    "year_open":1990,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":8,
+    "formatted_address":"Shui Che Kwun St, Yuen Long, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1143008,22.3629588 ]
+    },
+    "properties": {
+    "Name":"Cinema Riviera",
+    "year_open":1990,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"28號 Wing Shun St, Tsuen Wan, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1872689,22.3382401 ]
+    },
+    "properties": {
+    "Name":"Fairview Theatre",
+    "year_open":1990,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Lok Fu Place Zone A, 198 Junction Rd, Wang Tau Hom, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1897367,22.3202214 ]
+    },
+    "properties": {
+    "Name":"Gala City Cinema",
+    "year_open":1990,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":6,
+    "formatted_address":"141 Kowloon City Rd, To Kwa Wan, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0318435,22.4447307 ]
+    },
+    "properties": {
+    "Name":"Happy Cinema",
+    "year_open":1990,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"Chun Chu House, 1-15 Castle Peak Road (Yuen Long), Yuen Long, Hong Kong",
+    "category":"cantonese, chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2296461,22.2774334 ]
+    },
+    "properties": {
+    "Name":"L Cinema",
+    "year_open":1990,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Galaxy Plaza, 2 Mong Lung St, Shau Kei Wan, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1702231,22.3031135 ]
+    },
+    "properties": {
+    "Name":"London Classics Cinema",
+    "year_open":1990,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":9,
+    "formatted_address":"Austin Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.222502,22.281784 ]
+    },
+    "properties": {
+    "Name":"Sai Wan Ho Civic Centre Theatre",
+    "year_open":1990,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"111 Shau Kei Wan Rd, Sai Wan Ho, Hong Kong",
+    "category":"english, chinese, performances, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1664619,22.3205964 ]
+    },
+    "properties": {
+    "Name":"Dynasty Theatre",
+    "year_open":1991,
+    "year_closed":2019,
+    "Status":"Closed",
+    "lifespan":28,
+    "formatted_address":"Dynasty Plaza, 4 Mong Kok Rd, Mong Kok, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.177655,22.3010004 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Science Museum Lecture...",
+    "year_open":1991,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Hong Kong Science Museum, 2 Science Museum Rd, Tsim Sha Tsui East, Hong Kong",
+    "category":"commercial, cultural"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1545021,22.3396389 ]
+    },
+    "properties": {
+    "Name":"Brightly Star Cinema",
+    "year_open":1992,
+    "year_closed":2008,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"Tone King Building, 413 Castle Peak Rd, Cheung Sha Wan, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1655562,22.45339 ]
+    },
+    "properties": {
+    "Name":"Brightly Star Cinema [Tai Po]",
+    "year_open":1992,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Wing Fai Plaza, 29-35 Ting Kok Rd, Tai Po, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.127189,22.357196 ]
+    },
+    "properties": {
+    "Name":"Broadway Kwai Fong Cinema",
+    "year_open":1992,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"223 Hing Fong Rd, Kwai Fong, Hong Kong",
+    "category":"english, chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1865722,22.280413 ]
+    },
+    "properties": {
+    "Name":"Grand Windsor Cinema",
+    "year_open":1992,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"311 Gloucester Rd, Causeway Bay, Hong Kong",
+    "category":"chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1784427,22.2778903 ]
+    },
+    "properties": {
+    "Name":"New Imperial Cinema",
+    "year_open":1992,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"220 Wan Chai Rd, Wan Chai, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1821601,22.2805414 ]
+    },
+    "properties": {
+    "Name":"New York Cinema",
+    "year_open":1992,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":14,
+    "formatted_address":"Lippo House (causeway Bay Plaza 2), 463-483 Lockhart Rd, Bowrington, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.167815,22.327567 ]
+    },
+    "properties": {
+    "Name":"Royal Cinema",
+    "year_open":1992,
+    "year_closed":2007,
+    "Status":"Closed",
+    "lifespan":15,
+    "formatted_address":"221 Sai Yeung Choi St N, Tong Mi, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.12908,22.501197 ]
+    },
+    "properties": {
+    "Name":"Sheung Shui Town Centre Cinema",
+    "year_open":1992,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":8,
+    "formatted_address":"3 Chi Cheong Rd, Sheung Shui, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.180061,22.278033 ]
+    },
+    "properties": {
+    "Name":"South Pacific Theatre",
+    "year_open":1992,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"3 Morrison Hill Rd, Wan Chai, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1401071,22.4918335 ]
+    },
+    "properties": {
+    "Name":"Fanling Town Centre Cinema",
+    "year_open":1993,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"18號 Fanling Station Rd, Fanling, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.188216,22.330988 ]
+    },
+    "properties": {
+    "Name":"Kowloon City Theatre",
+    "year_open":1993,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"128 Carpenter Rd, Kowloon City, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1688183,22.3037546 ]
+    },
+    "properties": {
+    "Name":"Kwun Chung Theatre",
+    "year_open":1993,
+    "year_closed":2011,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"30 Kwun Chung St, Yau Ma Tei, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1693879,22.297333 ]
+    },
+    "properties": {
+    "Name":"MCL Silvercord Cinema",
+    "year_open":1993,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"30 Canton Rd, Kowloon Bay, Hong Kong",
+    "category":"english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1732428,22.3007802 ]
+    },
+    "properties": {
+    "Name":"Miramar Cinema",
+    "year_open":1993,
+    "year_closed":2003,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"Cheung Lee Commercial Building, 25 Kimberley Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.168819,22.3037989 ]
+    },
+    "properties": {
+    "Name":"New Universal Cinema",
+    "year_open":1993,
+    "year_closed":1995,
+    "Status":"Closed",
+    "lifespan":2,
+    "formatted_address":"Hilmanway Mansion, 24-30 Kwun Chung St, Yau Ma Tei, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2264632,22.2776603 ]
+    },
+    "properties": {
+    "Name":"Smiling Cinema",
+    "year_open":1993,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":3,
+    "formatted_address":"17 Nam Hong St, Shau Kei Wan, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1780498,22.2792924 ]
+    },
+    "properties": {
+    "Name":"Tonnochy Theatre",
+    "year_open":1993,
+    "year_closed":1994,
+    "Status":"Closed",
+    "lifespan":1,
+    "formatted_address":"Kwan Chart Tower, 6 Tonnochy Rd, Wan Chai, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1821587,22.2781357 ]
+    },
+    "properties": {
+    "Name":"UA Times Square Cinema",
+    "year_open":1993,
+    "year_closed":2012,
+    "Status":"Closed",
+    "lifespan":19,
+    "formatted_address":"1 Matheson St, Causeway Bay, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.238361,22.263618 ]
+    },
+    "properties": {
+    "Name":"Cinema City Chai Wan",
+    "year_open":1994,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"333 Chai Wan Rd, Chai Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1376924,22.2863039 ]
+    },
+    "properties": {
+    "Name":"Golden Palace Theatre",
+    "year_open":1994,
+    "year_closed":2004,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"419 Queen's Rd W, Shek Tong Tsui, Hong Kong",
+    "category":"cantonese, chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1780498,22.2792924 ]
+    },
+    "properties": {
+    "Name":"Golden Statue Adwards Theatre",
+    "year_open":1994,
+    "year_closed":0,
+    "Status":"Closed",
+    "lifespan":null,
+    "formatted_address":"Kwan Chart Tower, 6 Tonnochy Rd, Wan Chai, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1691049,22.303179 ]
+    },
+    "properties": {
+    "Name":"Shanghai Cinema",
+    "year_open":1994,
+    "year_closed":1998,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"23 Austin Rd, Yau Ma Tei, Hong Kong",
+    "category":"adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.169126,22.322465 ]
+    },
+    "properties": {
+    "Name":"Empress Theatre",
+    "year_open":1995,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":4,
+    "formatted_address":"750-758 Nathan Rd, Prince Edward, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2296461,22.2774334 ]
+    },
+    "properties": {
+    "Name":"Full House Theatre",
+    "year_open":1995,
+    "year_closed":2002,
+    "Status":"Closed",
+    "lifespan":7,
+    "formatted_address":"Galaxy Plaza, 2 Mong Lung St, Shau Kei Wan, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.167915,22.299508 ]
+    },
+    "properties": {
+    "Name":"Golden Gateway Multiplex",
+    "year_open":1995,
+    "year_closed":2016,
+    "Status":"Closed",
+    "lifespan":21,
+    "formatted_address":"25 Canton Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.183089,22.2783025 ]
+    },
+    "properties": {
+    "Name":"Golden Harvest Lee Theatre",
+    "year_open":1995,
+    "year_closed":2005,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"99 Percival St, Causeway Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.203765,22.323968 ]
+    },
+    "properties": {
+    "Name":"Hong Kong International Trade an...",
+    "year_open":1995,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1號 Trademart Dr, Kowloon Bay, Hong Kong",
+    "category":"chinese, english, commercial, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2402751,22.4276756 ]
+    },
+    "properties": {
+    "Name":"Ma On Shan Classic Cinema",
+    "year_open":1995,
+    "year_closed":2019,
+    "Status":"Closed",
+    "lifespan":24,
+    "formatted_address":"Ma On Shan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1679481,22.3107703 ]
+    },
+    "properties": {
+    "Name":"Broadway Cinematheque",
+    "year_open":1996,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Prosperous Garden Block 3, 3 Public Square St, Yau Ma Tei, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2163021,22.3244614 ]
+    },
+    "properties": {
+    "Name":"Broadway Theatre Kowloon Bay",
+    "year_open":1996,
+    "year_closed":2009,
+    "Status":"Closed",
+    "lifespan":13,
+    "formatted_address":"77 Ngau Tau Kok Rd, Kowloon Bay, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0356451,22.4453148 ]
+    },
+    "properties": {
+    "Name":"Broadway Theatre-Yuen Long",
+    "year_open":1996,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"8 Long Yat Rd, Yuen Long, Hong Kong",
+    "category":"english, chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.167832,22.3275524 ]
+    },
+    "properties": {
+    "Name":"Golden Crown Cinema",
+    "year_open":1996,
+    "year_closed":1996,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Shop A, May Bong Mansion, 221-225 Sai Yeung Choi St N, Tong Mi, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1868134,22.3793495 ]
+    },
+    "properties": {
+    "Name":"Hilton Plaza Cinema",
+    "year_open":1996,
+    "year_closed":2006,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"號, Hilton Plaza Block A, 3-9 Sha Tin Centre St, Sha Tin, Hong Kong",
+    "category":"chinese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2175951,22.2856337 ]
+    },
+    "properties": {
+    "Name":"Movie Movie Cityplaza",
+    "year_open":1996,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Tai Koo Shing Rd, Quarry Bay, Hong Kong",
+    "category":"Commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.188216,22.330988 ]
+    },
+    "properties": {
+    "Name":"UA Kowloon Theatre",
+    "year_open":1996,
+    "year_closed":1999,
+    "Status":"Closed",
+    "lifespan":3,
+    "formatted_address":"128 Carpenter Rd, Kowloon City, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1868973,22.2797079 ]
+    },
+    "properties": {
+    "Name":"BM-Causeway Bay Cinema",
+    "year_open":1997,
+    "year_closed":2000,
+    "Status":"Closed",
+    "lifespan":3,
+    "formatted_address":"Lok Sing Centre, 19-31 Yee Wo St, Causeway Bay, Hong Kong",
+    "category":"chinese, adult"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.202312,22.340704 ]
+    },
+    "properties": {
+    "Name":"Broadway Hollywood Cinema",
+    "year_open":1997,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"3 Lung Poon St, Tai Hom, Hong Kong",
+    "category":"english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.171981,22.323 ]
+    },
+    "properties": {
+    "Name":"Golden Harvest Mong Kok Cinema / 嘉禾旺角電影城",
+    "year_open":1997,
+    "year_closed":2013,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"193 Prince Edward Rd W, Kadoorie Hill, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1744322,22.337381 ]
+    },
+    "properties": {
+    "Name":"AMC Festival Walk Cinema / AMC 又一城戲院",
+    "year_open":1998,
+    "year_closed":2016,
+    "Status":"Closed",
+    "lifespan":18,
+    "formatted_address":"80 Tat Chee Ave, Kowloon Tong, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1744322,22.337381 ]
+    },
+    "properties": {
+    "Name":"Festival Grand Cinema",
+    "year_open":1998,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"80 Tat Chee Ave, Kowloon Tong, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0037781,22.4572699 ]
+    },
+    "properties": {
+    "Name":"Broadway Theatre-Kingswood Plaza",
+    "year_open":1999,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18號 Tin Yan Rd, Tin Shui Wai, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1858639,22.2808808 ]
+    },
+    "properties": {
+    "Name":"Cinema City-JP",
+    "year_open":1999,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"22-36 Paterson St, Causeway Bay, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1902873,22.3047355 ]
+    },
+    "properties": {
+    "Name":"Cinemetro",
+    "year_open":1999,
+    "year_closed":2001,
+    "Status":"Closed",
+    "lifespan":2,
+    "formatted_address":"Tak On St, Whampoa Garden, Hong Kong",
+    "category":"artistic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1081419,22.3584265 ]
+    },
+    "properties": {
+    "Name":"GH Tsing Yi Multiplex",
+    "year_open":1999,
+    "year_closed":2018,
+    "Status":"Closed",
+    "lifespan":19,
+    "formatted_address":"33 Tsing King Rd, Tsing Yi, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2587376,22.3221974 ]
+    },
+    "properties": {
+    "Name":"MCL Metro City Cinema",
+    "year_open":2000,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"8 Yan King Rd, Metro City, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9405428,22.2896486 ]
+    },
+    "properties": {
+    "Name":"UA-Citygate",
+    "year_open":2000,
+    "year_closed":2016,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"Citygate Outlets, 20 Tat Tung Rd, Tung Chung, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1897303,22.2799153 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Central Library Lectur...",
+    "year_open":2001,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Hong Kong Central Library, 66 Causeway Rd, Causeway Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2220069,22.2850681 ]
+    },
+    "properties": {
+    "Name":"Hong Kong Film Archive Cinema",
+    "year_open":2001,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Hong Kong Film Archives, 50 Lei King Rd, Aldrich Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1338278,22.2865869 ]
+    },
+    "properties": {
+    "Name":"Kam Ling Theatre (Queen's Road East)",
+    "year_open":2001,
+    "year_closed":2001,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"491 Queen's Rd W, Shek Tong Tsui, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1619682,22.3172044 ]
+    },
+    "properties": {
+    "Name":"Sky (Olympian City)",
+    "year_open":2001,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Hoi Ting Rd, Mong Kok, Hong Kong",
+    "category":"chinese, english, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1588412,22.2851589 ]
+    },
+    "properties": {
+    "Name":"Palace-IFC",
+    "year_open":2003,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"8 Finance St, Central, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.130069,22.262673 ]
+    },
+    "properties": {
+    "Name":"Broadway Cyberport Cinema",
+    "year_open":2004,
+    "year_closed":2020,
+    "Status":"Closed",
+    "lifespan":16,
+    "formatted_address":"100 Cyberport Rd, Telegraph Bay, Hong Kong",
+    "category":"english, chinese, commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.16865,22.318173 ]
+    },
+    "properties": {
+    "Name":"Cinema City Langham Place",
+    "year_open":2004,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"15/F Langham Place, 8 Argyle Street, Mong Kok, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1642913,22.2794683 ]
+    },
+    "properties": {
+    "Name":"Open Air Cinema, Tamar",
+    "year_open":2004,
+    "year_closed":2005,
+    "Status":"Closed",
+    "lifespan":1,
+    "formatted_address":"Tamar St, Admiralty, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1653936,22.2776447 ]
+    },
+    "properties": {
+    "Name":"Movie, Movie Pacific Place",
+    "year_open":2006,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"One Pacific Place, 88 Queensway, Admiralty, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1679298,22.3030576 ]
+    },
+    "properties": {
+    "Name":"Drive-In",
+    "year_open":2007,
+    "year_closed":2007,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"8 Austin Rd W, Jordan, Hong Kong",
+    "category":"japanese, english"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1630017,22.3031132 ]
+    },
+    "properties": {
+    "Name":"Grand Cinema",
+    "year_open":2007,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"The Arch Sun Tower, 1 Austin Rd W, West Kowloon, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9377118,22.3163316 ]
+    },
+    "properties": {
+    "Name":"MCL 4D Extreme Screen (Airport)",
+    "year_open":2007,
+    "year_closed":2012,
+    "Status":"Closed",
+    "lifespan":5,
+    "formatted_address":"Terminal 2, 1 Sky Plaza Rd, Chek Lap Kok, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1307875,22.2622434 ]
+    },
+    "properties": {
+    "Name":"Moonlight Movies",
+    "year_open":2007,
+    "year_closed":2009,
+    "Status":"Closed",
+    "lifespan":2,
+    "formatted_address":"Pok Fu Lam, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9377118,22.3163316 ]
+    },
+    "properties": {
+    "Name":"UA IMAX Theatre @ Airport",
+    "year_open":2007,
+    "year_closed":2019,
+    "Status":"Closed",
+    "lifespan":12,
+    "formatted_address":"Terminal 2, 1 Sky Plaza Rd, Chek Lap Kok, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2084331,22.3199795 ]
+    },
+    "properties": {
+    "Name":"UA MegaBox Cinema",
+    "year_open":2007,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Enterprise Square V Tower 2, 38 Wang Chiu Rd, Kowloon Bay, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9770604,22.3934912 ]
+    },
+    "properties": {
+    "Name":"UA TMT Plaza Cinema",
+    "year_open":2007,
+    "year_closed":2018,
+    "Status":"Closed",
+    "lifespan":11,
+    "formatted_address":"1 Tuen Shun St, Tuen Mun, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1389799,22.3691614 ]
+    },
+    "properties": {
+    "Name":"Global Art Centre",
+    "year_open":2008,
+    "year_closed":2010,
+    "Status":"Closed",
+    "lifespan":2,
+    "formatted_address":"Big Orange - Kwai Chung, Wo Yi Hop Rd, Kwai Chung, Hong Kong",
+    "category":"adult, chinese, documentary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2080748,22.290318 ]
+    },
+    "properties": {
+    "Name":"HKFYG Theatre",
+    "year_open":2008,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"The Hong Kong Federation Of Youth Groups Building, 21 Pak Fuk Rd, Tsat Tsz Mui, Hong Kong",
+    "category":"chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2125663,22.3243965 ]
+    },
+    "properties": {
+    "Name":"MCL Telford Cinema",
+    "year_open":2008,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"33號 Wai Yip St, Kowloon Bay, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1718959,22.297025 ]
+    },
+    "properties": {
+    "Name":"UA-iSQUARE Cinema",
+    "year_open":2009,
+    "year_closed":2019,
+    "Status":"Closed",
+    "lifespan":10,
+    "formatted_address":"63 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.114728,22.368025 ]
+    },
+    "properties": {
+    "Name":"Emperor Cinemas@Citywalk",
+    "year_open":2010,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Yeung Uk Rd, Tsuen Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.259068,22.307521 ]
+    },
+    "properties": {
+    "Name":"Star Cinema",
+    "year_open":2012,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"9 Tong Yin St, Tseung Kwan O, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1821587,22.2781357 ]
+    },
+    "properties": {
+    "Name":"UA-Cine Times",
+    "year_open":2013,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Matheson St, Causeway Bay, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.165206,22.302636 ]
+    },
+    "properties": {
+    "Name":"West Kowloon Bamboo Theatre 2014",
+    "year_open":2014,
+    "year_closed":2014,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"West Kowloon Waterfront Promenade, Jordan, Hong Kong",
+    "category":"cultural, performances"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1365101,22.2867584 ]
+    },
+    "properties": {
+    "Name":"Whitty Street Tram Dept Open Air...",
+    "year_open":2014,
+    "year_closed":2014,
+    "Status":"Closed",
+    "lifespan":0,
+    "formatted_address":"Whitty St, Shek Tong Tsui, Hong Kong",
+    "category":"cultural, cantonese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1401071,22.4918335 ]
+    },
+    "properties": {
+    "Name":"GH Fanling Cinema",
+    "year_open":2016,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Fanling Station Rd, Fanling, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1483479,22.2433943 ]
+    },
+    "properties": {
+    "Name":"MCL-South Horizons Cinema",
+    "year_open":2016,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Marina Square East Centre, 18A South Horizon Drive, Ap Lei Chau, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.111752,22.376195 ]
+    },
+    "properties": {
+    "Name":"Candy Park by Cinema City",
+    "year_open":2017,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"398 Castle Peak Rd (Tsuen Wan), Tsuen Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1564296,22.2814535 ]
+    },
+    "properties": {
+    "Name":"Emperor Cinemas@Entertainment Bu...",
+    "year_open":2017,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Entertainment Building, 30 Queen's Road Central, Central, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1458862,22.5010014 ]
+    },
+    "properties": {
+    "Name":"MCL-Green Code Cinema-Fanling",
+    "year_open":2017,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Ma Sik Rd, Fanling, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.037193,22.444396 ]
+    },
+    "properties": {
+    "Name":"My Cinema Yoho Mall",
+    "year_open":2017,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"9 Long Yat Rd, Yuen Long, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1475583,22.3360897 ]
+    },
+    "properties": {
+    "Name":"CGV Cinemas D2 Place",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Leroy Plaza, 15 Cheung Shun St, Cheung Sha Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1879624,22.3309857 ]
+    },
+    "properties": {
+    "Name":"Cine Art House",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"128 Carpenter Rd, Kowloon City, Hong Kong",
+    "category":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1868973,22.2797079 ]
+    },
+    "properties": {
+    "Name":"Cinema City Victoria",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2-8 Sugar St, Causeway Bay, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9783333,22.3908333 ]
+    },
+    "properties": {
+    "Name":"Emperor Cinemas @ Tuen Mun",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2 Tuen Lee St, Tuen Mun, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1955403,22.3339043 ]
+    },
+    "properties": {
+    "Name":"GH Kai Tak Cinema",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"9 Ning Yuen St, San Po Kong, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1886372,22.3817578 ]
+    },
+    "properties": {
+    "Name":"Movie Town",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18-19 Sha Tin Centre St, Sha Tin, Hong Kong",
+    "category":"Commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.976655,22.392641 ]
+    },
+    "properties": {
+    "Name":"StagE",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Tuen Shun St, Tuen Mun, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1539743,22.2813608 ]
+    },
+    "properties": {
+    "Name":"Tai Kwun JC Cube",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"10 Hollywood Rd, Central, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1069973,22.3600644 ]
+    },
+    "properties": {
+    "Name":"UA Maritime",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"31 Tsing King Rd, Tsing Yi, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9411076,22.2902479 ]
+    },
+    "properties": {
+    "Name":"UA- Citygate",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Tat Tung Rd, Tung Chung, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2167824,22.3242276 ]
+    },
+    "properties": {
+    "Name":"UA-Amoy",
+    "year_open":2018,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"77 Ngau Tau Kok Rd, Kowloon Bay, Hong Kong",
+    "category":"commercial, english, chinese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1260223,22.3496107 ]
+    },
+    "properties": {
+    "Name":"BMCPC Asbury Community Cinema",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1, Estate School, Lai King Estate, Kwai Chung, Hong Kong",
+    "category":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2313518,22.4237587 ]
+    },
+    "properties": {
+    "Name":"Emperor Cinemas @ Ma On Shan",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 On Luk St, Sha Tin, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1718959,22.297025 ]
+    },
+    "properties": {
+    "Name":"Emperor Cinemas@iSquare",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"63 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1545377,22.3271856 ]
+    },
+    "properties": {
+    "Name":"Golden Harvest V Walk Cinema",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"Sham Mong Rd, Sham Shui Po, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1744787,22.2951321 ]
+    },
+    "properties": {
+    "Name":"K 11 Art House",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"18 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1708277,22.2801464 ]
+    },
+    "properties": {
+    "Name":"Louis Koo Cinema",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"2 Harbour Rd, Wan Chai, Hong Kong",
+    "category":"chinese, english, artistic, foreign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.135963,22.365895 ]
+    },
+    "properties": {
+    "Name":"Lumen Cinema",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Ta Chuen Ping St, Shek Lei, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1520369,22.3390858 ]
+    },
+    "properties": {
+    "Name":"MCL Cheung Sha Wan Cinema",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"680 Cheung Sha Wan Rd, Cheung Sha Wan, Hong Kong",
+    "category":"commercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1615932,22.3049655 ]
+    },
+    "properties": {
+    "Name":"Premiere Elements",
+    "year_open":2019,
+    "year_closed":0,
+    "Status":"Open",
+    "lifespan":null,
+    "formatted_address":"1 Austin Rd W, West Kowloon, Hong Kong",
+    "category":"commercial"
+    }
+  }
+]
+}
