@@ -8,6 +8,7 @@
        "coordinates":  [ 114.147413,22.2845796 ]
     },
     "properties": {
+    "id":1,
     "Name":"Tung Hing Theatre",
     "year_open":1867,
     "year_closed":1912,
@@ -24,6 +25,7 @@
        "coordinates":  [ 114.155706,22.282826 ]
     },
     "properties": {
+    "id":2,
     "Name":"Theatre Royal",
     "year_open":1869,
     "year_closed":1933,
@@ -40,6 +42,7 @@
        "coordinates":  [ 114.1542034,22.2841836 ]
     },
     "properties": {
+    "id":3,
     "Name":"Ko Shing Theatre",
     "year_open":1875,
     "year_closed":1972,
@@ -56,6 +59,7 @@
        "coordinates":  [ 114.1404657,22.2879417 ]
     },
     "properties": {
+    "id":4,
     "Name":"Bijou Theatre",
     "year_open":1899,
     "year_closed":1899,
@@ -72,6 +76,7 @@
        "coordinates":  [ 114.1473023,22.2844089 ]
     },
     "properties": {
+    "id":5,
     "Name":"Chung King Theatre",
     "year_open":1900,
     "year_closed":0,
@@ -88,6 +93,7 @@
        "coordinates":  [ 114.1498615,22.2843058 ]
     },
     "properties": {
+    "id":6,
     "Name":"Hei Loi Garden",
     "year_open":1900,
     "year_closed":1904,
@@ -104,6 +110,7 @@
        "coordinates":  [ 114.1463971,22.2866074 ]
     },
     "properties": {
+    "id":7,
     "Name":"Kok Sun Garden",
     "year_open":1902,
     "year_closed":0,
@@ -120,6 +127,7 @@
        "coordinates":  [ 114.1555478,22.283944 ]
     },
     "properties": {
+    "id":8,
     "Name":"New Hei Loi Garden",
     "year_open":1902,
     "year_closed":0,
@@ -136,6 +144,7 @@
        "coordinates":  [ 114.1562438,22.2846221 ]
     },
     "properties": {
+    "id":9,
     "Name":"Empire Cinematograph~Wo Ping Theatre / 奄派影畫戲院~和平戲院",
     "year_open":1903,
     "year_closed":1921,
@@ -152,6 +161,7 @@
        "coordinates":  [ 114.1371404,22.2865041 ]
     },
     "properties": {
+    "id":10,
     "Name":"Tai Ping Theatre",
     "year_open":1904,
     "year_closed":1981,
@@ -168,6 +178,7 @@
        "coordinates":  [ 114.156116,22.2806919 ]
     },
     "properties": {
+    "id":11,
     "Name":"Cinematograph Pathe",
     "year_open":1907,
     "year_closed":1907,
@@ -184,6 +195,7 @@
        "coordinates":  [ 114.15687,22.2806028 ]
     },
     "properties": {
+    "id":12,
     "Name":"Alexandra Cinematograph",
     "year_open":1908,
     "year_closed":1909,
@@ -200,6 +212,7 @@
        "coordinates":  [ 114.1559,22.280659 ]
     },
     "properties": {
+    "id":13,
     "Name":"Salon-Cinema Theatre",
     "year_open":1909,
     "year_closed":1910,
@@ -216,6 +229,7 @@
        "coordinates":  [ 114.156116,22.2806919 ]
     },
     "properties": {
+    "id":14,
     "Name":"Star Cinematograph",
     "year_open":1909,
     "year_closed":0,
@@ -232,6 +246,7 @@
        "coordinates":  [ 114.156238,22.283883 ]
     },
     "properties": {
+    "id":15,
     "Name":"Victoria Cinematograph",
     "year_open":1909,
     "year_closed":1910,
@@ -248,6 +263,7 @@
        "coordinates":  [ 114.156116,22.2806919 ]
     },
     "properties": {
+    "id":16,
     "Name":"Coronet Theatre",
     "year_open":1910,
     "year_closed":1925,
@@ -264,6 +280,7 @@
        "coordinates":  [ 114.1730954,22.2745052 ]
     },
     "properties": {
+    "id":17,
     "Name":"Grand Theatre",
     "year_open":1910,
     "year_closed":1956,
@@ -280,6 +297,7 @@
        "coordinates":  [ 114.156238,22.283883 ]
     },
     "properties": {
+    "id":18,
     "Name":"Wo Ping Theatre",
     "year_open":1910,
     "year_closed":1980,
@@ -296,6 +314,7 @@
        "coordinates":  [ 114.1526911,22.2843776 ]
     },
     "properties": {
+    "id":19,
     "Name":"Kau Yue Fong Theatre",
     "year_open":1911,
     "year_closed":1949,
@@ -312,6 +331,7 @@
        "coordinates":  [ 114.156238,22.283883 ]
     },
     "properties": {
+    "id":20,
     "Name":"Victoria Theatre",
     "year_open":1911,
     "year_closed":1920,
@@ -328,6 +348,7 @@
        "coordinates":  [ 114.155706,22.282826 ]
     },
     "properties": {
+    "id":21,
     "Name":"Hong Kong Theatre",
     "year_open":1916,
     "year_closed":1922,
@@ -344,6 +365,7 @@
        "coordinates":  [ 114.1721746,22.2988123 ]
     },
     "properties": {
+    "id":22,
     "Name":"Palisade",
     "year_open":1916,
     "year_closed":1916,
@@ -360,6 +382,7 @@
        "coordinates":  [ 114.1495555,22.2839304 ]
     },
     "properties": {
+    "id":23,
     "Name":"Assembly Hall of the Central Bui...",
     "year_open":1918,
     "year_closed":0,
@@ -376,6 +399,7 @@
        "coordinates":  [ 114.1709202,22.3086039 ]
     },
     "properties": {
+    "id":24,
     "Name":"Kwong Chee Theatre",
     "year_open":1919,
     "year_closed":1968,
@@ -392,6 +416,7 @@
        "coordinates":  [ 114.1710157,22.3109155 ]
     },
     "properties": {
+    "id":25,
     "Name":"Open Air Cinema at the Club de R...",
     "year_open":1920,
     "year_closed":null,
@@ -408,6 +433,7 @@
        "coordinates":  [ 114.174106,22.3008283 ]
     },
     "properties": {
+    "id":26,
     "Name":"Kowloon Theatre",
     "year_open":1921,
     "year_closed":1923,
@@ -424,6 +450,7 @@
        "coordinates":  [ 114.1536893,22.286463 ]
     },
     "properties": {
+    "id":27,
     "Name":"World Theatre",
     "year_open":1921,
     "year_closed":1981,
@@ -440,6 +467,7 @@
        "coordinates":  [ 114.1712439,22.2963893 ]
     },
     "properties": {
+    "id":28,
     "Name":"Star Theatre",
     "year_open":1922,
     "year_closed":1961,
@@ -456,6 +484,7 @@
        "coordinates":  [ 114.2225156,22.2815457 ]
     },
     "properties": {
+    "id":29,
     "Name":"Cheong Lok Theatre",
     "year_open":1924,
     "year_closed":1969,
@@ -472,6 +501,7 @@
        "coordinates":  [ 114.1887233,22.3055658 ]
     },
     "properties": {
+    "id":30,
     "Name":"Mei Chiu Theatre",
     "year_open":1924,
     "year_closed":1935,
@@ -488,6 +518,7 @@
        "coordinates":  [ 114.156678,22.282162 ]
     },
     "properties": {
+    "id":31,
     "Name":"Queen's Theatre",
     "year_open":1924,
     "year_closed":2007,
@@ -504,6 +535,7 @@
        "coordinates":  [ 114.1391304,22.2862034 ]
     },
     "properties": {
+    "id":32,
     "Name":"Sai Yuen Theatre",
     "year_open":1924,
     "year_closed":1954,
@@ -520,6 +552,7 @@
        "coordinates":  [ 114.22458,22.280537 ]
     },
     "properties": {
+    "id":33,
     "Name":"Shaukiwan Theatre",
     "year_open":1924,
     "year_closed":1970,
@@ -536,6 +569,7 @@
        "coordinates":  [ 114.1495555,22.2839304 ]
     },
     "properties": {
+    "id":34,
     "Name":"Chinese YMCA Assembly Hall / 大會堂 YMCA",
     "year_open":1926,
     "year_closed":1995,
@@ -552,6 +586,7 @@
        "coordinates":  [ 114.2070287,22.3286293 ]
     },
     "properties": {
+    "id":35,
     "Name":"New Kowloon Cinema Theatre",
     "year_open":1926,
     "year_closed":1941,
@@ -568,6 +603,7 @@
        "coordinates":  [ 114.1699425,22.3100836 ]
     },
     "properties": {
+    "id":36,
     "Name":"New Tai Yat Theatre",
     "year_open":1926,
     "year_closed":1964,
@@ -584,6 +620,7 @@
        "coordinates":  [ 114.183089,22.2783025 ]
     },
     "properties": {
+    "id":37,
     "Name":"Lee Theatre",
     "year_open":1927,
     "year_closed":1991,
@@ -600,6 +637,7 @@
        "coordinates":  [ 114.162932,22.3269953 ]
     },
     "properties": {
+    "id":38,
     "Name":"Ming Sing Theatre",
     "year_open":1927,
     "year_closed":1971,
@@ -616,6 +654,7 @@
        "coordinates":  [ 114.1699,22.3117553 ]
     },
     "properties": {
+    "id":39,
     "Name":"Majestic Theatre",
     "year_open":1928,
     "year_closed":0,
@@ -632,6 +671,7 @@
        "coordinates":  [ 114.1713874,22.308472 ]
     },
     "properties": {
+    "id":40,
     "Name":"Po Hing Theatre",
     "year_open":1928,
     "year_closed":1955,
@@ -648,6 +688,7 @@
        "coordinates":  [ 114.150737,22.284415 ]
     },
     "properties": {
+    "id":41,
     "Name":"Central Theatre",
     "year_open":1930,
     "year_closed":1971,
@@ -664,6 +705,7 @@
        "coordinates":  [ 114.1692254,22.312422 ]
     },
     "properties": {
+    "id":42,
     "Name":"Yau Ma Tei Theatre",
     "year_open":1930,
     "year_closed":0,
@@ -680,6 +722,7 @@
        "coordinates":  [ 114.0283576,22.2049282 ]
     },
     "properties": {
+    "id":43,
     "Name":"Cheung Chau Theatre",
     "year_open":1931,
     "year_closed":0,
@@ -696,6 +739,7 @@
        "coordinates":  [ 114.1565078,22.2818205 ]
     },
     "properties": {
+    "id":44,
     "Name":"King's Theatre",
     "year_open":1931,
     "year_closed":1990,
@@ -712,6 +756,7 @@
        "coordinates":  [ 114.1675541,22.3058544 ]
     },
     "properties": {
+    "id":45,
     "Name":"Koon Chung Theatre",
     "year_open":1931,
     "year_closed":1939,
@@ -728,6 +773,7 @@
        "coordinates":  [ 114.1665664,22.3234684 ]
     },
     "properties": {
+    "id":46,
     "Name":"Mongkok Theatre",
     "year_open":1931,
     "year_closed":1949,
@@ -744,6 +790,7 @@
        "coordinates":  [ 114.1687841,22.3235438 ]
     },
     "properties": {
+    "id":47,
     "Name":"Prince's Theatre",
     "year_open":1931,
     "year_closed":1970,
@@ -760,6 +807,7 @@
        "coordinates":  [ 114.192803,22.2884683 ]
     },
     "properties": {
+    "id":48,
     "Name":"United China Open-Air Cinema",
     "year_open":1931,
     "year_closed":0,
@@ -776,6 +824,7 @@
        "coordinates":  [ 114.1693386,22.3192999 ]
     },
     "properties": {
+    "id":49,
     "Name":"Victory Theatre",
     "year_open":1931,
     "year_closed":1952,
@@ -792,6 +841,7 @@
        "coordinates":  [ 114.1716047,22.2774849 ]
     },
     "properties": {
+    "id":50,
     "Name":"Garden Theatre",
     "year_open":1932,
     "year_closed":1932,
@@ -808,6 +858,7 @@
        "coordinates":  [ 114.1688408,22.3099781 ]
     },
     "properties": {
+    "id":51,
     "Name":"Kwong Ming Theatre",
     "year_open":1932,
     "year_closed":1964,
@@ -824,6 +875,7 @@
        "coordinates":  [ 114.1745837,22.2794642 ]
     },
     "properties": {
+    "id":52,
     "Name":"Oriental Theatre",
     "year_open":1932,
     "year_closed":1981,
@@ -840,6 +892,7 @@
        "coordinates":  [ 114.1773361,22.2799613 ]
     },
     "properties": {
+    "id":53,
     "Name":"China Fleet Club Theatre",
     "year_open":1933,
     "year_closed":1992,
@@ -856,6 +909,7 @@
        "coordinates":  [ 114.170967,22.3086814 ]
     },
     "properties": {
+    "id":54,
     "Name":"Alhambra Theatre",
     "year_open":1934,
     "year_closed":1958,
@@ -872,6 +926,7 @@
        "coordinates":  [ 114.1632088,22.3308495 ]
     },
     "properties": {
+    "id":55,
     "Name":"Pei Ho Theatre",
     "year_open":1934,
     "year_closed":1977,
@@ -888,6 +943,7 @@
        "coordinates":  [ 114.1731267,22.2771903 ]
     },
     "properties": {
+    "id":56,
     "Name":"Southorn Playground",
     "year_open":1934,
     "year_closed":0,
@@ -904,6 +960,7 @@
        "coordinates":  [ 114.1699,22.3117553 ]
     },
     "properties": {
+    "id":57,
     "Name":"Man Ming Theatre",
     "year_open":1937,
     "year_closed":1941,
@@ -920,6 +977,7 @@
        "coordinates":  [ 114.1696201,22.3168722 ]
     },
     "properties": {
+    "id":58,
     "Name":"Nathan Theatre",
     "year_open":1938,
     "year_closed":1948,
@@ -936,6 +994,7 @@
        "coordinates":  [ 114.1769649,22.2770532 ]
     },
     "properties": {
+    "id":59,
     "Name":"Cathay Theatre",
     "year_open":1939,
     "year_closed":1984,
@@ -952,6 +1011,7 @@
        "coordinates":  [ 114.1862315,22.2796791 ]
     },
     "properties": {
+    "id":60,
     "Name":"Eastern District Theatre",
     "year_open":1940,
     "year_closed":1953,
@@ -968,6 +1028,7 @@
        "coordinates":  [ 114.164604,22.324726 ]
     },
     "properties": {
+    "id":61,
     "Name":"Good World Theatre",
     "year_open":1940,
     "year_closed":1972,
@@ -984,6 +1045,7 @@
        "coordinates":  [ 114.1584732,22.2774694 ]
     },
     "properties": {
+    "id":62,
     "Name":"Helena May of Institute for Women",
     "year_open":1940,
     "year_closed":0,
@@ -1000,6 +1062,7 @@
        "coordinates":  [ 114.1766163,22.2785972 ]
     },
     "properties": {
+    "id":63,
     "Name":"National Theatre",
     "year_open":1940,
     "year_closed":1973,
@@ -1016,6 +1079,7 @@
        "coordinates":  [ 114.1705107,22.3195854 ]
     },
     "properties": {
+    "id":64,
     "Name":"Sun Wah Theatre",
     "year_open":1940,
     "year_closed":1958,
@@ -1032,6 +1096,7 @@
        "coordinates":  [ 114.16016,22.33095 ]
     },
     "properties": {
+    "id":65,
     "Name":"Sham Shui Po Theatre",
     "year_open":1941,
     "year_closed":1941,
@@ -1048,6 +1113,7 @@
        "coordinates":  [ 114.1557615,22.2485246 ]
     },
     "properties": {
+    "id":66,
     "Name":"Island Theatre",
     "year_open":1943,
     "year_closed":1985,
@@ -1064,6 +1130,7 @@
        "coordinates":  [ 114.167065,22.445694 ]
     },
     "properties": {
+    "id":67,
     "Name":"Tai Po Theatre",
     "year_open":1943,
     "year_closed":1958,
@@ -1080,6 +1147,7 @@
        "coordinates":  [ 114.0318435,22.4447307 ]
     },
     "properties": {
+    "id":68,
     "Name":"Tung Lok Theatre",
     "year_open":1943,
     "year_closed":1987,
@@ -1096,6 +1164,7 @@
        "coordinates":  [ 114.1877565,22.3283762 ]
     },
     "properties": {
+    "id":69,
     "Name":"International Theatre",
     "year_open":1948,
     "year_closed":1955,
@@ -1112,6 +1181,7 @@
        "coordinates":  [ 114.1710157,22.3109155 ]
     },
     "properties": {
+    "id":70,
     "Name":"Broadway Cinema--Mong Kok",
     "year_open":1949,
     "year_closed":1966,
@@ -1128,6 +1198,7 @@
        "coordinates":  [ 114.1726855,22.2998217 ]
     },
     "properties": {
+    "id":71,
     "Name":"Broadway Cinema--The One",
     "year_open":1949,
     "year_closed":1966,
@@ -1144,6 +1215,7 @@
        "coordinates":  [ 114.1705107,22.3195854 ]
     },
     "properties": {
+    "id":72,
     "Name":"Broadway Theatre",
     "year_open":1949,
     "year_closed":1996,
@@ -1160,6 +1232,7 @@
        "coordinates":  [ 114.1697827,22.3050095 ]
     },
     "properties": {
+    "id":73,
     "Name":"Liberty Theatre",
     "year_open":1949,
     "year_closed":1997,
@@ -1176,6 +1249,7 @@
        "coordinates":  [ 114.1862315,22.2796791 ]
     },
     "properties": {
+    "id":74,
     "Name":"Roxy Theatre",
     "year_open":1949,
     "year_closed":1974,
@@ -1192,6 +1266,7 @@
        "coordinates":  [ 114.0753753,22.4249178 ]
     },
     "properties": {
+    "id":75,
     "Name":"Global Theatre",
     "year_open":1950,
     "year_closed":1996,
@@ -1208,6 +1283,7 @@
        "coordinates":  [ 114.1766163,22.2785972 ]
     },
     "properties": {
+    "id":76,
     "Name":"Globe Theatre",
     "year_open":1950,
     "year_closed":1971,
@@ -1224,6 +1300,7 @@
        "coordinates":  [ 114.1169899,22.370088 ]
     },
     "properties": {
+    "id":77,
     "Name":"Grand Theatre",
     "year_open":1950,
     "year_closed":1999,
@@ -1240,6 +1317,7 @@
        "coordinates":  [ 114.0295139,22.4441534 ]
     },
     "properties": {
+    "id":78,
     "Name":"Kwong Wah Theatre",
     "year_open":1950,
     "year_closed":1991,
@@ -1256,6 +1334,7 @@
        "coordinates":  [ 114.1960817,22.2914024 ]
     },
     "properties": {
+    "id":79,
     "Name":"Luna Park Cinema",
     "year_open":1950,
     "year_closed":1954,
@@ -1272,6 +1351,7 @@
        "coordinates":  [ 114.217995,22.285911 ]
     },
     "properties": {
+    "id":80,
     "Name":"Taikoo Theatre",
     "year_open":1950,
     "year_closed":1972,
@@ -1288,6 +1368,7 @@
        "coordinates":  [ 114.1093283,22.3754427 ]
     },
     "properties": {
+    "id":81,
     "Name":"Tsuen Wan Theatre",
     "year_open":1950,
     "year_closed":1972,
@@ -1304,6 +1385,7 @@
        "coordinates":  [ 114.1850307,22.3072792 ]
     },
     "properties": {
+    "id":82,
     "Name":"Wing Lok Theatre",
     "year_open":1950,
     "year_closed":1970,
@@ -1320,6 +1402,7 @@
        "coordinates":  [ 114.1726781,22.2788601 ]
     },
     "properties": {
+    "id":83,
     "Name":"Golden City Theatre",
     "year_open":1951,
     "year_closed":1958,
@@ -1336,6 +1419,7 @@
        "coordinates":  [ 114.134395,22.28586 ]
     },
     "properties": {
+    "id":84,
     "Name":"Kam Ling Theatre (Woo Hop St)",
     "year_open":1951,
     "year_closed":1973,
@@ -1352,6 +1436,7 @@
        "coordinates":  [ 114.140309,22.285522 ]
     },
     "properties": {
+    "id":85,
     "Name":"Ray Theatre",
     "year_open":1951,
     "year_closed":1971,
@@ -1368,6 +1453,7 @@
        "coordinates":  [ 114.1595518,22.3352212 ]
     },
     "properties": {
+    "id":86,
     "Name":"Zenith Theatre",
     "year_open":1951,
     "year_closed":1973,
@@ -1384,6 +1470,7 @@
        "coordinates":  [ 114.1852116,22.2795527 ]
     },
     "properties": {
+    "id":87,
     "Name":"Capitol Theatre",
     "year_open":1952,
     "year_closed":1977,
@@ -1400,6 +1487,7 @@
        "coordinates":  [ 114.195394,22.29035 ]
     },
     "properties": {
+    "id":88,
     "Name":"Empire~State Theatre / 璇宮~皇都戲院",
     "year_open":1952,
     "year_closed":1997,
@@ -1416,6 +1504,7 @@
        "coordinates":  [ 114.1653724,22.3247208 ]
     },
     "properties": {
+    "id":89,
     "Name":"Great World Theatre",
     "year_open":1952,
     "year_closed":1972,
@@ -1432,6 +1521,7 @@
        "coordinates":  [ 114.1881727,22.3289603 ]
     },
     "properties": {
+    "id":90,
     "Name":"Loong Shing Theatre",
     "year_open":1952,
     "year_closed":1973,
@@ -1448,6 +1538,7 @@
        "coordinates":  [ 114.1724579,22.3001825 ]
     },
     "properties": {
+    "id":91,
     "Name":"Princess Theatre",
     "year_open":1952,
     "year_closed":1973,
@@ -1464,6 +1555,7 @@
        "coordinates":  [ 114.1695822,22.2774816 ]
     },
     "properties": {
+    "id":92,
     "Name":"Rialto Theatre",
     "year_open":1952,
     "year_closed":1977,
@@ -1480,6 +1572,7 @@
        "coordinates":  [ 114.1953485,22.2901828 ]
     },
     "properties": {
+    "id":93,
     "Name":"State Theatre",
     "year_open":1952,
     "year_closed":1997,
@@ -1496,6 +1589,7 @@
        "coordinates":  [ 114.1597728,22.335927 ]
     },
     "properties": {
+    "id":94,
     "Name":"Apollo Theatre",
     "year_open":1953,
     "year_closed":1977,
@@ -1512,6 +1606,7 @@
        "coordinates":  [ 114.1422757,22.497501 ]
     },
     "properties": {
+    "id":95,
     "Name":"Luen Wo Theatre",
     "year_open":1953,
     "year_closed":2010,
@@ -1528,6 +1623,7 @@
        "coordinates":  [ 114.1623557,22.3299286 ]
     },
     "properties": {
+    "id":96,
     "Name":"Palace Theatre",
     "year_open":1953,
     "year_closed":1972,
@@ -1544,6 +1640,7 @@
        "coordinates":  [ 114.156896,22.244275 ]
     },
     "properties": {
+    "id":97,
     "Name":"Pearl Theatre",
     "year_open":1953,
     "year_closed":1970,
@@ -1560,6 +1657,7 @@
        "coordinates":  [ 114.1694325,22.3179638 ]
     },
     "properties": {
+    "id":98,
     "Name":"Ritz Theatre",
     "year_open":1953,
     "year_closed":1972,
@@ -1576,6 +1674,7 @@
        "coordinates":  [ 114.1487825,22.2849932 ]
     },
     "properties": {
+    "id":99,
     "Name":"Gay Theatre",
     "year_open":1954,
     "year_closed":1975,
@@ -1592,6 +1691,7 @@
        "coordinates":  [ 114.2247374,22.2803858 ]
     },
     "properties": {
+    "id":100,
     "Name":"Golden Star Theatre",
     "year_open":1954,
     "year_closed":1972,
@@ -1608,6 +1708,7 @@
        "coordinates":  [ 114.1862315,22.2796791 ]
     },
     "properties": {
+    "id":101,
     "Name":"Hoover Theatre",
     "year_open":1954,
     "year_closed":1981,
@@ -1624,6 +1725,7 @@
        "coordinates":  [ 114.1681803,22.3131317 ]
     },
     "properties": {
+    "id":102,
     "Name":"Kam Wah Theatre",
     "year_open":1954,
     "year_closed":1970,
@@ -1640,6 +1742,7 @@
        "coordinates":  [ 114.2098716,22.2883531 ]
     },
     "properties": {
+    "id":103,
     "Name":"Metropole Theatre",
     "year_open":1954,
     "year_closed":1963,
@@ -1656,6 +1759,7 @@
        "coordinates":  [ 114.1697708,22.3175727 ]
     },
     "properties": {
+    "id":104,
     "Name":"Paramount Theatre",
     "year_open":1954,
     "year_closed":1972,
@@ -1672,6 +1776,7 @@
        "coordinates":  [ 114.1828051,22.2796537 ]
     },
     "properties": {
+    "id":105,
     "Name":"New York Theatre",
     "year_open":1955,
     "year_closed":1982,
@@ -1688,6 +1793,7 @@
        "coordinates":  [ 114.1878154,22.381151 ]
     },
     "properties": {
+    "id":106,
     "Name":"Shatin Theatre",
     "year_open":1955,
     "year_closed":1975,
@@ -1704,6 +1810,7 @@
        "coordinates":  [ 114.12518,22.502573 ]
     },
     "properties": {
+    "id":107,
     "Name":"Golden Dragon Theatre",
     "year_open":1956,
     "year_closed":1980,
@@ -1720,6 +1827,7 @@
        "coordinates":  [ 113.9861436,22.3766954 ]
     },
     "properties": {
+    "id":108,
     "Name":"Kesarbahadur Hall",
     "year_open":1956,
     "year_closed":1994,
@@ -1736,6 +1844,7 @@
        "coordinates":  [ 114.1701583,22.3184674 ]
     },
     "properties": {
+    "id":109,
     "Name":"Victoria Theatre",
     "year_open":1956,
     "year_closed":1976,
@@ -1752,6 +1861,7 @@
        "coordinates":  [ 114.1717102,22.308041 ]
     },
     "properties": {
+    "id":110,
     "Name":"Astor Theatre",
     "year_open":1957,
     "year_closed":1987,
@@ -1768,6 +1878,7 @@
        "coordinates":  [ 114.0293347,22.2050592 ]
     },
     "properties": {
+    "id":111,
     "Name":"Dragon Gate~Golden Dragon Theatre (Cheung Chau) / 金門~金龍戲院",
     "year_open":1957,
     "year_closed":1980,
@@ -1784,6 +1895,7 @@
        "coordinates":  [ 114.1671219,22.4485756 ]
     },
     "properties": {
+    "id":112,
     "Name":"Golden Palace Theatre",
     "year_open":1957,
     "year_closed":1960,
@@ -1800,6 +1912,7 @@
        "coordinates":  [ 114.1265987,22.5034146 ]
     },
     "properties": {
+    "id":113,
     "Name":"Hang Lok Theatre",
     "year_open":1957,
     "year_closed":1997,
@@ -1816,6 +1929,7 @@
        "coordinates":  [ 114.2387556,22.2594877 ]
     },
     "properties": {
+    "id":114,
     "Name":"Astra Cinema",
     "year_open":1958,
     "year_closed":1982,
@@ -1832,6 +1946,7 @@
        "coordinates":  [ 114.1730954,22.2745052 ]
     },
     "properties": {
+    "id":115,
     "Name":"Hong Kong Grand Theatre",
     "year_open":1958,
     "year_closed":1976,
@@ -1848,6 +1963,7 @@
        "coordinates":  [ 114.2714425,22.3807531 ]
     },
     "properties": {
+    "id":116,
     "Name":"Sai Kung Theatre",
     "year_open":1958,
     "year_closed":1979,
@@ -1864,6 +1980,7 @@
        "coordinates":  [ 114.1422757,22.497501 ]
     },
     "properties": {
+    "id":117,
     "Name":"Fan Ling Theatre",
     "year_open":1959,
     "year_closed":2010,
@@ -1880,6 +1997,7 @@
        "coordinates":  [ 114.1705107,22.3195854 ]
     },
     "properties": {
+    "id":118,
     "Name":"Gala Theatre (Mongkok)",
     "year_open":1959,
     "year_closed":1979,
@@ -1896,6 +2014,7 @@
        "coordinates":  [ 114.1693386,22.3192999 ]
     },
     "properties": {
+    "id":119,
     "Name":"Royal Theatre",
     "year_open":1960,
     "year_closed":1990,
@@ -1912,6 +2031,7 @@
        "coordinates":  [ 114.1881666,22.3138835 ]
     },
     "properties": {
+    "id":120,
     "Name":"Wah Lok Theatre",
     "year_open":1960,
     "year_closed":1972,
@@ -1928,6 +2048,7 @@
        "coordinates":  [ 114.164879,22.321503 ]
     },
     "properties": {
+    "id":121,
     "Name":"Ying King Theatre",
     "year_open":1960,
     "year_closed":1970,
@@ -1944,6 +2065,7 @@
        "coordinates":  [ 114.1835907,22.3095747 ]
     },
     "properties": {
+    "id":122,
     "Name":"Sky Theatre",
     "year_open":1961,
     "year_closed":1973,
@@ -1960,6 +2082,7 @@
        "coordinates":  [ 114.0288603,22.4448556 ]
     },
     "properties": {
+    "id":123,
     "Name":"Yuen Long Theatre",
     "year_open":1961,
     "year_closed":0,
@@ -1976,6 +2099,7 @@
        "coordinates":  [ 114.161713,22.2823732 ]
     },
     "properties": {
+    "id":124,
     "Name":"City Hall Theatre",
     "year_open":1962,
     "year_closed":0,
@@ -1992,6 +2116,7 @@
        "coordinates":  [ 114.2314308,22.3174058 ]
     },
     "properties": {
+    "id":125,
     "Name":"Golden Valley Theatre",
     "year_open":1962,
     "year_closed":1991,
@@ -2008,6 +2133,7 @@
        "coordinates":  [ 113.9809693,22.3850691 ]
     },
     "properties": {
+    "id":126,
     "Name":"Great Wall Theatre",
     "year_open":1962,
     "year_closed":1980,
@@ -2024,6 +2150,7 @@
        "coordinates":  [ 114.1714779,22.3034998 ]
     },
     "properties": {
+    "id":127,
     "Name":"London Theatre",
     "year_open":1962,
     "year_closed":1988,
@@ -2040,6 +2167,7 @@
        "coordinates":  [ 114.1156682,22.3680241 ]
     },
     "properties": {
+    "id":128,
     "Name":"Lung Wah Theatre",
     "year_open":1962,
     "year_closed":1996,
@@ -2056,6 +2184,7 @@
        "coordinates":  [ 114.1616361,22.2822389 ]
     },
     "properties": {
+    "id":129,
     "Name":"Studio One",
     "year_open":1962,
     "year_closed":1995,
@@ -2072,6 +2201,7 @@
        "coordinates":  [ 114.1148815,22.3692129 ]
     },
     "properties": {
+    "id":130,
     "Name":"August Moon Theatre",
     "year_open":1963,
     "year_closed":1992,
@@ -2088,6 +2218,7 @@
        "coordinates":  [ 114.1702007,22.3313207 ]
     },
     "properties": {
+    "id":131,
     "Name":"Metro Theatre",
     "year_open":1963,
     "year_closed":1974,
@@ -2104,6 +2235,7 @@
        "coordinates":  [ 114.1992988,22.2917041 ]
     },
     "properties": {
+    "id":132,
     "Name":"Odeon Theatre",
     "year_open":1963,
     "year_closed":1981,
@@ -2120,6 +2252,7 @@
        "coordinates":  [ 114.1708432,22.2963245 ]
     },
     "properties": {
+    "id":133,
     "Name":"Sands Theatre",
     "year_open":1963,
     "year_closed":1980,
@@ -2136,6 +2269,7 @@
        "coordinates":  [ 114.2247899,22.3136386 ]
     },
     "properties": {
+    "id":134,
     "Name":"Silver Theatre",
     "year_open":1963,
     "year_closed":2009,
@@ -2152,6 +2286,7 @@
        "coordinates":  [ 114.1093283,22.3754427 ]
     },
     "properties": {
+    "id":135,
     "Name":"Waldorf Theatre",
     "year_open":1963,
     "year_closed":1986,
@@ -2168,6 +2303,7 @@
        "coordinates":  [ 114.2279743,22.2774794 ]
     },
     "properties": {
+    "id":136,
     "Name":"Winner Theatre",
     "year_open":1963,
     "year_closed":1977,
@@ -2184,6 +2320,7 @@
        "coordinates":  [ 114.1704139,22.2789252 ]
     },
     "properties": {
+    "id":137,
     "Name":"East Town Theatre",
     "year_open":1964,
     "year_closed":1974,
@@ -2200,6 +2337,7 @@
        "coordinates":  [ 114.11744,22.3688554 ]
     },
     "properties": {
+    "id":138,
     "Name":"Good View Theatre",
     "year_open":1964,
     "year_closed":1993,
@@ -2216,6 +2354,7 @@
        "coordinates":  [ 114.1702205,22.3166153 ]
     },
     "properties": {
+    "id":139,
     "Name":"Hollywood Theatre",
     "year_open":1964,
     "year_closed":1980,
@@ -2232,6 +2371,7 @@
        "coordinates":  [ 114.1876085,22.3216115 ]
     },
     "properties": {
+    "id":140,
     "Name":"Ruby Theatre",
     "year_open":1964,
     "year_closed":1994,
@@ -2248,6 +2388,7 @@
        "coordinates":  [ 114.225494,22.313544 ]
     },
     "properties": {
+    "id":141,
     "Name":"Bonds~UA Bonds Theatre",
     "year_open":1965,
     "year_closed":2002,
@@ -2264,6 +2405,7 @@
        "coordinates":  [ 114.2002626,22.3388253 ]
     },
     "properties": {
+    "id":142,
     "Name":"Jumbo Theatre",
     "year_open":1965,
     "year_closed":1982,
@@ -2280,6 +2422,7 @@
        "coordinates":  [ 114.188001,22.310001 ]
     },
     "properties": {
+    "id":143,
     "Name":"Mandarin Theatre",
     "year_open":1965,
     "year_closed":1980,
@@ -2296,6 +2439,7 @@
        "coordinates":  [ 114.2002626,22.3388253 ]
     },
     "properties": {
+    "id":144,
     "Name":"Metropole Theatre",
     "year_open":1965,
     "year_closed":1982,
@@ -2312,6 +2456,7 @@
        "coordinates":  [ 114.225494,22.313544 ]
     },
     "properties": {
+    "id":145,
     "Name":"UA-Bonds Cinema",
     "year_open":1965,
     "year_closed":2002,
@@ -2328,6 +2473,7 @@
        "coordinates":  [ 113.9973997,22.4326187 ]
     },
     "properties": {
+    "id":146,
     "Name":"Hung Shui Kiu Theatre",
     "year_open":1966,
     "year_closed":1978,
@@ -2344,6 +2490,7 @@
        "coordinates":  [ 114.1887951,22.2795695 ]
     },
     "properties": {
+    "id":147,
     "Name":"Isis Theatre",
     "year_open":1966,
     "year_closed":1999,
@@ -2360,6 +2507,7 @@
        "coordinates":  [ 114.188012,22.33563 ]
     },
     "properties": {
+    "id":148,
     "Name":"Kam Kwok Theatre",
     "year_open":1966,
     "year_closed":1971,
@@ -2376,6 +2524,7 @@
        "coordinates":  [ 114.0631416,22.440265 ]
     },
     "properties": {
+    "id":149,
     "Name":"Kam Tin Theatre",
     "year_open":1966,
     "year_closed":1970,
@@ -2392,6 +2541,7 @@
        "coordinates":  [ 114.1648827,22.320235 ]
     },
     "properties": {
+    "id":150,
     "Name":"Mayfair Theatre",
     "year_open":1966,
     "year_closed":1990,
@@ -2408,6 +2558,7 @@
        "coordinates":  [ 114.179776,22.2782478 ]
     },
     "properties": {
+    "id":151,
     "Name":"Nam Yang Theatre",
     "year_open":1966,
     "year_closed":1989,
@@ -2424,6 +2575,7 @@
        "coordinates":  [ 114.1955403,22.3339043 ]
     },
     "properties": {
+    "id":152,
     "Name":"Paris Theatre",
     "year_open":1966,
     "year_closed":1992,
@@ -2440,6 +2592,7 @@
        "coordinates":  [ 114.1834605,22.2812956 ]
     },
     "properties": {
+    "id":153,
     "Name":"President Theatre",
     "year_open":1966,
     "year_closed":0,
@@ -2456,6 +2609,7 @@
        "coordinates":  [ 114.1693544,22.316765 ]
     },
     "properties": {
+    "id":154,
     "Name":"South China Theatre",
     "year_open":1966,
     "year_closed":2005,
@@ -2472,6 +2626,7 @@
        "coordinates":  [ 114.2002626,22.3388253 ]
     },
     "properties": {
+    "id":155,
     "Name":"Asia Theatre",
     "year_open":1967,
     "year_closed":1982,
@@ -2488,6 +2643,7 @@
        "coordinates":  [ 114.1636602,22.3231171 ]
     },
     "properties": {
+    "id":156,
     "Name":"Golden Crown Theatre",
     "year_open":1967,
     "year_closed":1988,
@@ -2504,6 +2660,7 @@
        "coordinates":  [ 114.165982,22.448009 ]
     },
     "properties": {
+    "id":157,
     "Name":"Po Wah Theatre",
     "year_open":1967,
     "year_closed":0,
@@ -2520,6 +2677,7 @@
        "coordinates":  [ 114.194827,22.336045 ]
     },
     "properties": {
+    "id":158,
     "Name":"Ritz Theatre",
     "year_open":1967,
     "year_closed":2005,
@@ -2536,6 +2694,7 @@
        "coordinates":  [ 114.1689467,22.3040949 ]
     },
     "properties": {
+    "id":159,
     "Name":"Universal Theatre",
     "year_open":1967,
     "year_closed":1992,
@@ -2552,6 +2711,7 @@
        "coordinates":  [ 114.1234149,22.3704243 ]
     },
     "properties": {
+    "id":160,
     "Name":"Yik Chi Theatre",
     "year_open":1967,
     "year_closed":1987,
@@ -2568,6 +2728,7 @@
        "coordinates":  [ 114.1569328,22.3365119 ]
     },
     "properties": {
+    "id":161,
     "Name":"Federal Theatre",
     "year_open":1968,
     "year_closed":1977,
@@ -2584,6 +2745,7 @@
        "coordinates":  [ 114.220962,22.2829884 ]
     },
     "properties": {
+    "id":162,
     "Name":"Kam Ming Theatre",
     "year_open":1968,
     "year_closed":1995,
@@ -2600,6 +2762,7 @@
        "coordinates":  [ 114.1689,22.2964113 ]
     },
     "properties": {
+    "id":163,
     "Name":"Grand Ocean Cinema",
     "year_open":1969,
     "year_closed":0,
@@ -2616,6 +2779,7 @@
        "coordinates":  [ 114.1763354,22.2761865 ]
     },
     "properties": {
+    "id":164,
     "Name":"Imperial Cinema",
     "year_open":1969,
     "year_closed":2004,
@@ -2632,6 +2796,7 @@
        "coordinates":  [ 114.1858291,22.2810532 ]
     },
     "properties": {
+    "id":165,
     "Name":"Jade Theatre & Pearl Theatre",
     "year_open":1969,
     "year_closed":1998,
@@ -2648,6 +2813,7 @@
        "coordinates":  [ 114.1193225,22.3710038 ]
     },
     "properties": {
+    "id":166,
     "Name":"May Wah Theatre",
     "year_open":1969,
     "year_closed":null,
@@ -2664,6 +2830,7 @@
        "coordinates":  [ 114.1690089,22.3186292 ]
     },
     "properties": {
+    "id":167,
     "Name":"Rex Theatre",
     "year_open":1969,
     "year_closed":1996,
@@ -2680,6 +2847,7 @@
        "coordinates":  [ 114.2364028,22.2626599 ]
     },
     "properties": {
+    "id":168,
     "Name":"Chai Wan Theatre",
     "year_open":1970,
     "year_closed":1993,
@@ -2696,6 +2864,7 @@
        "coordinates":  [ 114.1695647,22.32359 ]
     },
     "properties": {
+    "id":169,
     "Name":"Empress Theatre",
     "year_open":1970,
     "year_closed":1990,
@@ -2712,6 +2881,7 @@
        "coordinates":  [ 114.2227499,22.3159838 ]
     },
     "properties": {
+    "id":170,
     "Name":"Life Theatre",
     "year_open":1970,
     "year_closed":2004,
@@ -2728,6 +2898,7 @@
        "coordinates":  [ 114.19208,22.281995 ]
     },
     "properties": {
+    "id":171,
     "Name":"Park Theatre",
     "year_open":1970,
     "year_closed":1997,
@@ -2744,6 +2915,7 @@
        "coordinates":  [ 114.1858291,22.2810532 ]
     },
     "properties": {
+    "id":172,
     "Name":"Pearl Theatre",
     "year_open":1970,
     "year_closed":1998,
@@ -2760,6 +2932,7 @@
        "coordinates":  [ 114.1709903,22.306258 ]
     },
     "properties": {
+    "id":173,
     "Name":"GH Washington Theatre",
     "year_open":1971,
     "year_closed":1993,
@@ -2776,6 +2949,7 @@
        "coordinates":  [ 114.185835,22.306134 ]
     },
     "properties": {
+    "id":174,
     "Name":"Lux Theatre",
     "year_open":1971,
     "year_closed":0,
@@ -2792,6 +2966,7 @@
        "coordinates":  [ 114.1270085,22.2831177 ]
     },
     "properties": {
+    "id":175,
     "Name":"Fox Theatre",
     "year_open":1972,
     "year_closed":1994,
@@ -2808,6 +2983,7 @@
        "coordinates":  [ 114.1887082,22.319511 ]
     },
     "properties": {
+    "id":176,
     "Name":"Full Moon Theatre",
     "year_open":1972,
     "year_closed":1997,
@@ -2824,6 +3000,7 @@
        "coordinates":  [ 114.200052,22.291325 ]
     },
     "properties": {
+    "id":177,
     "Name":"Sunbeam Theatre & Super 3 Cinema",
     "year_open":1972,
     "year_closed":0,
@@ -2840,6 +3017,7 @@
        "coordinates":  [ 114.2023752,22.3467847 ]
     },
     "properties": {
+    "id":178,
     "Name":"Manning Theatre",
     "year_open":1973,
     "year_closed":1994,
@@ -2856,6 +3034,7 @@
        "coordinates":  [ 114.140558,22.3357916 ]
     },
     "properties": {
+    "id":179,
     "Name":"Century Cinema",
     "year_open":1974,
     "year_closed":2010,
@@ -2872,6 +3051,7 @@
        "coordinates":  [ 114.2168419,22.3223854 ]
     },
     "properties": {
+    "id":180,
     "Name":"Ace Theatre",
     "year_open":1975,
     "year_closed":1995,
@@ -2888,6 +3068,7 @@
        "coordinates":  [ 114.1674605,22.3341073 ]
     },
     "properties": {
+    "id":181,
     "Name":"Nam Cheong Theatre",
     "year_open":1975,
     "year_closed":2000,
@@ -2904,6 +3085,7 @@
        "coordinates":  [ 114.160153,22.335123 ]
     },
     "properties": {
+    "id":182,
     "Name":"Prince Theatre",
     "year_open":1975,
     "year_closed":1998,
@@ -2920,6 +3102,7 @@
        "coordinates":  [ 114.1603311,22.3348174 ]
     },
     "properties": {
+    "id":183,
     "Name":"Princess Theatre",
     "year_open":1975,
     "year_closed":2004,
@@ -2936,6 +3119,7 @@
        "coordinates":  [ 114.147911,22.249863 ]
     },
     "properties": {
+    "id":184,
     "Name":"Scala Theatre",
     "year_open":1975,
     "year_closed":1991,
@@ -2952,6 +3136,7 @@
        "coordinates":  [ 114.170839,22.305524 ]
     },
     "properties": {
+    "id":185,
     "Name":"Golden Harvest~Newport Theatre (YauMaTei) / 嘉禾~新寶戲院",
     "year_open":1977,
     "year_closed":2000,
@@ -2968,6 +3153,7 @@
        "coordinates":  [ 114.1708277,22.2801464 ]
     },
     "properties": {
+    "id":186,
     "Name":"Hong Kong Arts Centre Shouson Th...",
     "year_open":1977,
     "year_closed":0,
@@ -2984,6 +3170,7 @@
        "coordinates":  [ 114.1708277,22.3055206 ]
     },
     "properties": {
+    "id":187,
     "Name":"Newport Theatre",
     "year_open":1977,
     "year_closed":2000,
@@ -3000,6 +3187,7 @@
        "coordinates":  [ 114.1396323,22.3695565 ]
     },
     "properties": {
+    "id":188,
     "Name":"Yiu Sing Theatre",
     "year_open":1977,
     "year_closed":1993,
@@ -3016,6 +3204,7 @@
        "coordinates":  [ 114.1797787,22.3411605 ]
     },
     "properties": {
+    "id":189,
     "Name":"Academic Community Hall",
     "year_open":1978,
     "year_closed":0,
@@ -3032,6 +3221,7 @@
        "coordinates":  [ 114.1620031,22.3323738 ]
     },
     "properties": {
+    "id":190,
     "Name":"Golden Theatre",
     "year_open":1978,
     "year_closed":1992,
@@ -3048,6 +3238,7 @@
        "coordinates":  [ 114.187931,22.306045 ]
     },
     "properties": {
+    "id":191,
     "Name":"Hung Hom Theatre",
     "year_open":1978,
     "year_closed":1991,
@@ -3064,6 +3255,7 @@
        "coordinates":  [ 114.1876387,22.3069363 ]
     },
     "properties": {
+    "id":192,
     "Name":"Hunghom Theatre",
     "year_open":1978,
     "year_closed":1991,
@@ -3080,6 +3272,7 @@
        "coordinates":  [ 114.1724666,22.3069693 ]
     },
     "properties": {
+    "id":193,
     "Name":"M2 Theatre",
     "year_open":1978,
     "year_closed":2000,
@@ -3096,6 +3289,7 @@
        "coordinates":  [ 114.1724666,22.3069693 ]
     },
     "properties": {
+    "id":194,
     "Name":"Majestic Cinema",
     "year_open":1978,
     "year_closed":2000,
@@ -3112,6 +3306,7 @@
        "coordinates":  [ 114.0413675,22.2830679 ]
     },
     "properties": {
+    "id":195,
     "Name":"Peng Chau Theatre",
     "year_open":1978,
     "year_closed":1988,
@@ -3128,6 +3323,7 @@
        "coordinates":  [ 113.974499,22.3975518 ]
     },
     "properties": {
+    "id":196,
     "Name":"Victoria Theatre",
     "year_open":1978,
     "year_closed":1992,
@@ -3144,6 +3340,7 @@
        "coordinates":  [ 114.13969,22.252569 ]
     },
     "properties": {
+    "id":197,
     "Name":"Fortuna ~ HK Opera House / 華富閣戲院 ~ 香江大舞台",
     "year_open":1979,
     "year_closed":2010,
@@ -3160,6 +3357,7 @@
        "coordinates":  [ 114.1390583,22.252528 ]
     },
     "properties": {
+    "id":198,
     "Name":"Hong Kong Opera House",
     "year_open":1979,
     "year_closed":2008,
@@ -3176,6 +3374,7 @@
        "coordinates":  [ 114.1621681,22.3320473 ]
     },
     "properties": {
+    "id":199,
     "Name":"Cineplex Theatre",
     "year_open":1980,
     "year_closed":1996,
@@ -3192,6 +3391,7 @@
        "coordinates":  [ 114.1709787,22.2937034 ]
     },
     "properties": {
+    "id":200,
     "Name":"Hong Kong Space Museum Lecture Hall",
     "year_open":1980,
     "year_closed":0,
@@ -3208,6 +3408,7 @@
        "coordinates":  [ 114.1842189,22.2815279 ]
     },
     "properties": {
+    "id":201,
     "Name":"Palace Theatre",
     "year_open":1980,
     "year_closed":1994,
@@ -3224,6 +3425,7 @@
        "coordinates":  [ 114.1709787,22.2937034 ]
     },
     "properties": {
+    "id":202,
     "Name":"Stanley Ho Space Theatre",
     "year_open":1980,
     "year_closed":0,
@@ -3240,6 +3442,7 @@
        "coordinates":  [ 114.1126286,22.370898 ]
     },
     "properties": {
+    "id":203,
     "Name":"Tsuen Wan Town Hall Cultural Act...",
     "year_open":1980,
     "year_closed":0,
@@ -3256,6 +3459,7 @@
        "coordinates":  [ 114.2125663,22.3243965 ]
     },
     "properties": {
+    "id":204,
     "Name":"Cosmo Theatre",
     "year_open":1981,
     "year_closed":1998,
@@ -3272,6 +3476,7 @@
        "coordinates":  [ 114.2385955,22.2942809 ]
     },
     "properties": {
+    "id":205,
     "Name":"Full House Theatre (Yau Tong) / 滿堂戲院",
     "year_open":1981,
     "year_closed":1990,
@@ -3288,6 +3493,7 @@
        "coordinates":  [ 114.2125663,22.3243965 ]
     },
     "properties": {
+    "id":206,
     "Name":"Global Theatre",
     "year_open":1981,
     "year_closed":1998,
@@ -3304,6 +3510,7 @@
        "coordinates":  [ 114.2388842,22.2950889 ]
     },
     "properties": {
+    "id":207,
     "Name":"Golden Harbour City Theatre",
     "year_open":1981,
     "year_closed":1995,
@@ -3320,6 +3527,7 @@
        "coordinates":  [ 114.1666573,22.4475677 ]
     },
     "properties": {
+    "id":208,
     "Name":"Po Wah Theatre",
     "year_open":1981,
     "year_closed":1990,
@@ -3336,6 +3544,7 @@
        "coordinates":  [ 114.226752,22.329832 ]
     },
     "properties": {
+    "id":209,
     "Name":"Shun Lee Theatre",
     "year_open":1981,
     "year_closed":1999,
@@ -3352,6 +3561,7 @@
        "coordinates":  [ 114.2067606,22.419625 ]
     },
     "properties": {
+    "id":210,
     "Name":"Sir Run Run Shaw Hall",
     "year_open":1981,
     "year_closed":0,
@@ -3368,6 +3578,7 @@
        "coordinates":  [ 114.153739,22.24953 ]
     },
     "properties": {
+    "id":211,
     "Name":"Aberdeen~UA Aberdeen Theatre / 香港仔戲院~UA香港仔",
     "year_open":1982,
     "year_closed":2003,
@@ -3384,6 +3595,7 @@
        "coordinates":  [ 114.12877,22.5014239 ]
     },
     "properties": {
+    "id":212,
     "Name":"Auditorium of the North District...",
     "year_open":1982,
     "year_closed":0,
@@ -3400,6 +3612,7 @@
        "coordinates":  [ 114.1590074,22.3358764 ]
     },
     "properties": {
+    "id":213,
     "Name":"Capital Theatre",
     "year_open":1982,
     "year_closed":1996,
@@ -3416,6 +3629,7 @@
        "coordinates":  [ 114.217477,22.286721 ]
     },
     "properties": {
+    "id":214,
     "Name":"Gala Theatre (Cityplaza)",
     "year_open":1982,
     "year_closed":1994,
@@ -3432,6 +3646,7 @@
        "coordinates":  [ 114.234421,22.3081355 ]
     },
     "properties": {
+    "id":215,
     "Name":"Golden City Theatre",
     "year_open":1982,
     "year_closed":1993,
@@ -3448,6 +3663,7 @@
        "coordinates":  [ 114.1538679,22.2487869 ]
     },
     "properties": {
+    "id":216,
     "Name":"UA Aberdeen Cinema",
     "year_open":1982,
     "year_closed":2000,
@@ -3464,6 +3680,7 @@
        "coordinates":  [ 114.238361,22.263618 ]
     },
     "properties": {
+    "id":217,
     "Name":"Wing Wah Theatre",
     "year_open":1982,
     "year_closed":1994,
@@ -3480,6 +3697,7 @@
        "coordinates":  [ 114.1866906,22.3141766 ]
     },
     "properties": {
+    "id":218,
     "Name":"Ko Shan Theatre",
     "year_open":1983,
     "year_closed":0,
@@ -3496,6 +3714,7 @@
        "coordinates":  [ 114.1384557,22.3391397 ]
     },
     "properties": {
+    "id":219,
     "Name":"Paladium Theatre",
     "year_open":1983,
     "year_closed":1994,
@@ -3512,6 +3731,7 @@
        "coordinates":  [ 114.1371432,22.341465 ]
     },
     "properties": {
+    "id":220,
     "Name":"Ruby Palace Theatre",
     "year_open":1983,
     "year_closed":1994,
@@ -3528,6 +3748,7 @@
        "coordinates":  [ 114.0342388,22.4426794 ]
     },
     "properties": {
+    "id":221,
     "Name":"Union Theatre",
     "year_open":1983,
     "year_closed":1995,
@@ -3544,6 +3765,7 @@
        "coordinates":  [ 114.0311931,22.4455312 ]
     },
     "properties": {
+    "id":222,
     "Name":"Golden Dragon Theatre",
     "year_open":1984,
     "year_closed":1998,
@@ -3560,6 +3782,7 @@
        "coordinates":  [ 114.2163021,22.3244614 ]
     },
     "properties": {
+    "id":223,
     "Name":"Good Luck Theatre",
     "year_open":1984,
     "year_closed":1995,
@@ -3576,6 +3799,7 @@
        "coordinates":  [ 114.1685171,22.2994257 ]
     },
     "properties": {
+    "id":224,
     "Name":"Harbour City Cinema",
     "year_open":1984,
     "year_closed":1994,
@@ -3592,6 +3816,7 @@
        "coordinates":  [ 114.171793,22.316765 ]
     },
     "properties": {
+    "id":225,
     "Name":"Kam Sing Theatre",
     "year_open":1984,
     "year_closed":2004,
@@ -3608,6 +3833,7 @@
        "coordinates":  [ 114.0331193,22.4424704 ]
     },
     "properties": {
+    "id":226,
     "Name":"Merryland Theatre",
     "year_open":1984,
     "year_closed":2002,
@@ -3624,6 +3850,7 @@
        "coordinates":  [ 114.1718495,22.3167823 ]
     },
     "properties": {
+    "id":227,
     "Name":"Newport Theatre",
     "year_open":1984,
     "year_closed":0,
@@ -3640,6 +3867,7 @@
        "coordinates":  [ 114.1218025,22.3723225 ]
     },
     "properties": {
+    "id":228,
     "Name":"Triumph Theatre",
     "year_open":1984,
     "year_closed":1996,
@@ -3656,6 +3884,7 @@
        "coordinates":  [ 114.1922847,22.3841796 ]
     },
     "properties": {
+    "id":229,
     "Name":"Acme Theatre",
     "year_open":1985,
     "year_closed":1999,
@@ -3672,6 +3901,7 @@
        "coordinates":  [ 114.17486,22.281049 ]
     },
     "properties": {
+    "id":230,
     "Name":"Columbia Classics Cinema",
     "year_open":1985,
     "year_closed":1997,
@@ -3688,6 +3918,7 @@
        "coordinates":  [ 114.1285658,22.3556836 ]
     },
     "properties": {
+    "id":231,
     "Name":"Kwai Fong Theatre",
     "year_open":1985,
     "year_closed":1996,
@@ -3704,6 +3935,7 @@
        "coordinates":  [ 113.9781624,22.391605 ]
     },
     "properties": {
+    "id":232,
     "Name":"New Town Theatre",
     "year_open":1985,
     "year_closed":2005,
@@ -3720,6 +3952,7 @@
        "coordinates":  [ 114.196493,22.379597 ]
     },
     "properties": {
+    "id":233,
     "Name":"Opal Theatre",
     "year_open":1985,
     "year_closed":1990,
@@ -3736,6 +3969,7 @@
        "coordinates":  [ 114.214219,22.327218 ]
     },
     "properties": {
+    "id":234,
     "Name":"Rainbow Theatre",
     "year_open":1985,
     "year_closed":1998,
@@ -3752,6 +3986,7 @@
        "coordinates":  [ 114.170445,22.452909 ]
     },
     "properties": {
+    "id":235,
     "Name":"Silver Star Cinema",
     "year_open":1985,
     "year_closed":1999,
@@ -3768,6 +4003,7 @@
        "coordinates":  [ 114.1922847,22.3841796 ]
     },
     "properties": {
+    "id":236,
     "Name":"Sun Sing Theatre",
     "year_open":1985,
     "year_closed":1992,
@@ -3784,6 +4020,7 @@
        "coordinates":  [ 114.1886372,22.3817578 ]
     },
     "properties": {
+    "id":237,
     "Name":"UA Shatin Cinema",
     "year_open":1985,
     "year_closed":2018,
@@ -3800,6 +4037,7 @@
        "coordinates":  [ 114.1759366,22.2766389 ]
     },
     "properties": {
+    "id":238,
     "Name":"ABC Cathay Theatre",
     "year_open":1986,
     "year_closed":0,
@@ -3816,6 +4054,7 @@
        "coordinates":  [ 114.2018517,22.2917357 ]
     },
     "properties": {
+    "id":239,
     "Name":"Golden Hung Kai Theatre",
     "year_open":1986,
     "year_closed":1995,
@@ -3832,6 +4071,7 @@
        "coordinates":  [ 114.171104,22.45177 ]
     },
     "properties": {
+    "id":240,
     "Name":"Hung Kai Theatre",
     "year_open":1986,
     "year_closed":1995,
@@ -3848,6 +4088,7 @@
        "coordinates":  [ 114.135963,22.365895 ]
     },
     "properties": {
+    "id":241,
     "Name":"Hung Sing Theatre",
     "year_open":1986,
     "year_closed":1992,
@@ -3864,6 +4105,7 @@
        "coordinates":  [ 114.027807,22.4438424 ]
     },
     "properties": {
+    "id":242,
     "Name":"Yuen Long Palace Theatre",
     "year_open":1986,
     "year_closed":1999,
@@ -3880,6 +4122,7 @@
        "coordinates":  [ 114.2163021,22.3244614 ]
     },
     "properties": {
+    "id":243,
     "Name":"Amoy~Broadway (Kowloon Bay) / 淘大戲院~百老滙 (九龍灣)",
     "year_open":1987,
     "year_closed":1995,
@@ -3896,6 +4139,7 @@
        "coordinates":  [ 114.1706768,22.3169345 ]
     },
     "properties": {
+    "id":244,
     "Name":"Broadway Mongkok Cinema",
     "year_open":1987,
     "year_closed":0,
@@ -3912,6 +4156,7 @@
        "coordinates":  [ 114.2164407,22.2841574 ]
     },
     "properties": {
+    "id":245,
     "Name":"Grand Kornhill Cinema",
     "year_open":1987,
     "year_closed":0,
@@ -3928,6 +4173,7 @@
        "coordinates":  [ 114.034521,22.441991 ]
     },
     "properties": {
+    "id":246,
     "Name":"Hollywood Theatre",
     "year_open":1987,
     "year_closed":2000,
@@ -3944,6 +4190,7 @@
        "coordinates":  [ 114.214219,22.327218 ]
     },
     "properties": {
+    "id":247,
     "Name":"Oscar Theatre",
     "year_open":1987,
     "year_closed":1990,
@@ -3960,6 +4207,7 @@
        "coordinates":  [ 113.9767864,22.3917136 ]
     },
     "properties": {
+    "id":248,
     "Name":"Tuen Mun Town Hall Cultural Acti...",
     "year_open":1987,
     "year_closed":0,
@@ -3976,6 +4224,7 @@
        "coordinates":  [ 114.171981,22.323 ]
     },
     "properties": {
+    "id":249,
     "Name":"UA Cine Moko",
     "year_open":1987,
     "year_closed":0,
@@ -3992,6 +4241,7 @@
        "coordinates":  [ 114.1209392,22.3663586 ]
     },
     "properties": {
+    "id":250,
     "Name":"Warwick Theatre",
     "year_open":1987,
     "year_closed":1996,
@@ -4008,6 +4258,7 @@
        "coordinates":  [ 114.1791412,22.3000686 ]
     },
     "properties": {
+    "id":251,
     "Name":"Chinachem Golden Plaza Cinema",
     "year_open":1988,
     "year_closed":2013,
@@ -4024,6 +4275,7 @@
        "coordinates":  [ 114.1769119,22.2803654 ]
     },
     "properties": {
+    "id":252,
     "Name":"Cine Art House",
     "year_open":1988,
     "year_closed":2006,
@@ -4040,6 +4292,7 @@
        "coordinates":  [ 114.1731385,22.2833754 ]
     },
     "properties": {
+    "id":253,
     "Name":"Hong Kong Convention and Exhibit...",
     "year_open":1988,
     "year_closed":0,
@@ -4056,6 +4309,7 @@
        "coordinates":  [ 114.1520369,22.3390858 ]
     },
     "properties": {
+    "id":254,
     "Name":"Lai Sun Cinema",
     "year_open":1988,
     "year_closed":1997,
@@ -4072,6 +4326,7 @@
        "coordinates":  [ 114.2041504,22.3829983 ]
     },
     "properties": {
+    "id":255,
     "Name":"Odeon Theatre",
     "year_open":1988,
     "year_closed":1998,
@@ -4088,6 +4343,7 @@
        "coordinates":  [ 114.1941118,22.2898512 ]
     },
     "properties": {
+    "id":256,
     "Name":"Olympia Theatre",
     "year_open":1988,
     "year_closed":1995,
@@ -4104,6 +4360,7 @@
        "coordinates":  [ 113.97579,22.393116 ]
     },
     "properties": {
+    "id":257,
     "Name":"Tuen Mun Theatre",
     "year_open":1988,
     "year_closed":2006,
@@ -4120,6 +4377,7 @@
        "coordinates":  [ 114.103363,22.3621864 ]
     },
     "properties": {
+    "id":258,
     "Name":"Dragon Palace (Tsing Yi) / 龍都戲院",
     "year_open":1989,
     "year_closed":2007,
@@ -4136,6 +4394,7 @@
        "coordinates":  [ 114.2399396,22.2767315 ]
     },
     "properties": {
+    "id":259,
     "Name":"Flower Cinema",
     "year_open":1989,
     "year_closed":1994,
@@ -4152,6 +4411,7 @@
        "coordinates":  [ 114.1908596,22.3050239 ]
     },
     "properties": {
+    "id":260,
     "Name":"GH Whampoa Cinema",
     "year_open":1989,
     "year_closed":0,
@@ -4168,6 +4428,7 @@
        "coordinates":  [ 114.1550362,22.2490583 ]
     },
     "properties": {
+    "id":261,
     "Name":"Golden Harbour Theatre",
     "year_open":1989,
     "year_closed":1996,
@@ -4184,6 +4445,7 @@
        "coordinates":  [ 114.1023164,22.3474872 ]
     },
     "properties": {
+    "id":262,
     "Name":"Green-View Theatre",
     "year_open":1989,
     "year_closed":1997,
@@ -4200,6 +4462,7 @@
        "coordinates":  [ 114.1709787,22.2937034 ]
     },
     "properties": {
+    "id":263,
     "Name":"Hong Kong Cultural Centre Grand ...",
     "year_open":1989,
     "year_closed":0,
@@ -4216,6 +4479,7 @@
        "coordinates":  [ 113.9750672,22.3988352 ]
     },
     "properties": {
+    "id":264,
     "Name":"Paris London New York Hollywood ...",
     "year_open":1989,
     "year_closed":0,
@@ -4232,6 +4496,7 @@
        "coordinates":  [ 114.1497877,22.2862048 ]
     },
     "properties": {
+    "id":265,
     "Name":"Sheung Wan Civic Centre Theatre",
     "year_open":1989,
     "year_closed":0,
@@ -4248,6 +4513,7 @@
        "coordinates":  [ 114.1653936,22.2776447 ]
     },
     "properties": {
+    "id":266,
     "Name":"UA Pacific Place Cinemas",
     "year_open":1989,
     "year_closed":2006,
@@ -4264,6 +4530,7 @@
        "coordinates":  [ 114.1717102,22.308041 ]
     },
     "properties": {
+    "id":267,
     "Name":"Astor Classics Cinema",
     "year_open":1990,
     "year_closed":2000,
@@ -4280,6 +4547,7 @@
        "coordinates":  [ 114.1113744,22.3704413 ]
     },
     "properties": {
+    "id":268,
     "Name":"Broadway Theatre Tsuen Wan",
     "year_open":1990,
     "year_closed":0,
@@ -4296,6 +4564,7 @@
        "coordinates":  [ 114.0306155,22.4449778 ]
     },
     "properties": {
+    "id":269,
     "Name":"Chicago Theatre",
     "year_open":1990,
     "year_closed":1998,
@@ -4312,6 +4581,7 @@
        "coordinates":  [ 114.1143008,22.3629588 ]
     },
     "properties": {
+    "id":270,
     "Name":"Cinema Riviera",
     "year_open":1990,
     "year_closed":1995,
@@ -4328,6 +4598,7 @@
        "coordinates":  [ 114.1872689,22.3382401 ]
     },
     "properties": {
+    "id":271,
     "Name":"Fairview Theatre",
     "year_open":1990,
     "year_closed":2000,
@@ -4344,6 +4615,7 @@
        "coordinates":  [ 114.1897367,22.3202214 ]
     },
     "properties": {
+    "id":272,
     "Name":"Gala City Cinema",
     "year_open":1990,
     "year_closed":1996,
@@ -4360,6 +4632,7 @@
        "coordinates":  [ 114.0318435,22.4447307 ]
     },
     "properties": {
+    "id":273,
     "Name":"Happy Cinema",
     "year_open":1990,
     "year_closed":1995,
@@ -4376,6 +4649,7 @@
        "coordinates":  [ 114.2296461,22.2774334 ]
     },
     "properties": {
+    "id":274,
     "Name":"L Cinema",
     "year_open":1990,
     "year_closed":0,
@@ -4392,6 +4666,7 @@
        "coordinates":  [ 114.1702231,22.3031135 ]
     },
     "properties": {
+    "id":275,
     "Name":"London Classics Cinema",
     "year_open":1990,
     "year_closed":1999,
@@ -4408,6 +4683,7 @@
        "coordinates":  [ 114.222502,22.281784 ]
     },
     "properties": {
+    "id":276,
     "Name":"Sai Wan Ho Civic Centre Theatre",
     "year_open":1990,
     "year_closed":0,
@@ -4424,6 +4700,7 @@
        "coordinates":  [ 114.1664619,22.3205964 ]
     },
     "properties": {
+    "id":277,
     "Name":"Dynasty Theatre",
     "year_open":1991,
     "year_closed":2019,
@@ -4440,6 +4717,7 @@
        "coordinates":  [ 114.177655,22.3010004 ]
     },
     "properties": {
+    "id":278,
     "Name":"Hong Kong Science Museum Lecture...",
     "year_open":1991,
     "year_closed":0,
@@ -4456,6 +4734,7 @@
        "coordinates":  [ 114.1545021,22.3396389 ]
     },
     "properties": {
+    "id":279,
     "Name":"Brightly Star Cinema",
     "year_open":1992,
     "year_closed":2008,
@@ -4472,6 +4751,7 @@
        "coordinates":  [ 114.1655562,22.45339 ]
     },
     "properties": {
+    "id":280,
     "Name":"Brightly Star Cinema [Tai Po]",
     "year_open":1992,
     "year_closed":1999,
@@ -4488,6 +4768,7 @@
        "coordinates":  [ 114.127189,22.357196 ]
     },
     "properties": {
+    "id":281,
     "Name":"Broadway Kwai Fong Cinema",
     "year_open":1992,
     "year_closed":0,
@@ -4504,6 +4785,7 @@
        "coordinates":  [ 114.1865722,22.280413 ]
     },
     "properties": {
+    "id":282,
     "Name":"Grand Windsor Cinema",
     "year_open":1992,
     "year_closed":0,
@@ -4520,6 +4802,7 @@
        "coordinates":  [ 114.1784427,22.2778903 ]
     },
     "properties": {
+    "id":283,
     "Name":"New Imperial Cinema",
     "year_open":1992,
     "year_closed":2004,
@@ -4536,6 +4819,7 @@
        "coordinates":  [ 114.1821601,22.2805414 ]
     },
     "properties": {
+    "id":284,
     "Name":"New York Cinema",
     "year_open":1992,
     "year_closed":2006,
@@ -4552,6 +4836,7 @@
        "coordinates":  [ 114.167815,22.327567 ]
     },
     "properties": {
+    "id":285,
     "Name":"Royal Cinema",
     "year_open":1992,
     "year_closed":2007,
@@ -4568,6 +4853,7 @@
        "coordinates":  [ 114.12908,22.501197 ]
     },
     "properties": {
+    "id":286,
     "Name":"Sheung Shui Town Centre Cinema",
     "year_open":1992,
     "year_closed":2000,
@@ -4584,6 +4870,7 @@
        "coordinates":  [ 114.180061,22.278033 ]
     },
     "properties": {
+    "id":287,
     "Name":"South Pacific Theatre",
     "year_open":1992,
     "year_closed":1999,
@@ -4600,6 +4887,7 @@
        "coordinates":  [ 114.1401071,22.4918335 ]
     },
     "properties": {
+    "id":288,
     "Name":"Fanling Town Centre Cinema",
     "year_open":1993,
     "year_closed":2006,
@@ -4616,6 +4904,7 @@
        "coordinates":  [ 114.188216,22.330988 ]
     },
     "properties": {
+    "id":289,
     "Name":"Kowloon City Theatre",
     "year_open":1993,
     "year_closed":2006,
@@ -4632,6 +4921,7 @@
        "coordinates":  [ 114.1688183,22.3037546 ]
     },
     "properties": {
+    "id":290,
     "Name":"Kwun Chung Theatre",
     "year_open":1993,
     "year_closed":2011,
@@ -4648,6 +4938,7 @@
        "coordinates":  [ 114.1693879,22.297333 ]
     },
     "properties": {
+    "id":291,
     "Name":"MCL Silvercord Cinema",
     "year_open":1993,
     "year_closed":2006,
@@ -4664,6 +4955,7 @@
        "coordinates":  [ 114.1732428,22.3007802 ]
     },
     "properties": {
+    "id":292,
     "Name":"Miramar Cinema",
     "year_open":1993,
     "year_closed":2003,
@@ -4680,6 +4972,7 @@
        "coordinates":  [ 114.168819,22.3037989 ]
     },
     "properties": {
+    "id":293,
     "Name":"New Universal Cinema",
     "year_open":1993,
     "year_closed":1995,
@@ -4696,6 +4989,7 @@
        "coordinates":  [ 114.2264632,22.2776603 ]
     },
     "properties": {
+    "id":294,
     "Name":"Smiling Cinema",
     "year_open":1993,
     "year_closed":1996,
@@ -4712,6 +5006,7 @@
        "coordinates":  [ 114.1780498,22.2792924 ]
     },
     "properties": {
+    "id":295,
     "Name":"Tonnochy Theatre",
     "year_open":1993,
     "year_closed":1994,
@@ -4728,6 +5023,7 @@
        "coordinates":  [ 114.1821587,22.2781357 ]
     },
     "properties": {
+    "id":296,
     "Name":"UA Times Square Cinema",
     "year_open":1993,
     "year_closed":2012,
@@ -4744,6 +5040,7 @@
        "coordinates":  [ 114.238361,22.263618 ]
     },
     "properties": {
+    "id":297,
     "Name":"Cinema City Chai Wan",
     "year_open":1994,
     "year_closed":0,
@@ -4760,6 +5057,7 @@
        "coordinates":  [ 114.1376924,22.2863039 ]
     },
     "properties": {
+    "id":298,
     "Name":"Golden Palace Theatre",
     "year_open":1994,
     "year_closed":2004,
@@ -4776,6 +5074,7 @@
        "coordinates":  [ 114.1780498,22.2792924 ]
     },
     "properties": {
+    "id":299,
     "Name":"Golden Statue Adwards Theatre",
     "year_open":1994,
     "year_closed":0,
@@ -4792,6 +5091,7 @@
        "coordinates":  [ 114.1691049,22.303179 ]
     },
     "properties": {
+    "id":300,
     "Name":"Shanghai Cinema",
     "year_open":1994,
     "year_closed":1998,
@@ -4808,6 +5108,7 @@
        "coordinates":  [ 114.169126,22.322465 ]
     },
     "properties": {
+    "id":301,
     "Name":"Empress Theatre",
     "year_open":1995,
     "year_closed":1999,
@@ -4824,6 +5125,7 @@
        "coordinates":  [ 114.2296461,22.2774334 ]
     },
     "properties": {
+    "id":302,
     "Name":"Full House Theatre",
     "year_open":1995,
     "year_closed":2002,
@@ -4840,6 +5142,7 @@
        "coordinates":  [ 114.167915,22.299508 ]
     },
     "properties": {
+    "id":303,
     "Name":"Golden Gateway Multiplex",
     "year_open":1995,
     "year_closed":2016,
@@ -4856,6 +5159,7 @@
        "coordinates":  [ 114.183089,22.2783025 ]
     },
     "properties": {
+    "id":304,
     "Name":"Golden Harvest Lee Theatre",
     "year_open":1995,
     "year_closed":2005,
@@ -4872,6 +5176,7 @@
        "coordinates":  [ 114.203765,22.323968 ]
     },
     "properties": {
+    "id":305,
     "Name":"Hong Kong International Trade an...",
     "year_open":1995,
     "year_closed":0,
@@ -4888,6 +5193,7 @@
        "coordinates":  [ 114.2402751,22.4276756 ]
     },
     "properties": {
+    "id":306,
     "Name":"Ma On Shan Classic Cinema",
     "year_open":1995,
     "year_closed":2019,
@@ -4904,6 +5210,7 @@
        "coordinates":  [ 114.1679481,22.3107703 ]
     },
     "properties": {
+    "id":307,
     "Name":"Broadway Cinematheque",
     "year_open":1996,
     "year_closed":0,
@@ -4920,6 +5227,7 @@
        "coordinates":  [ 114.2163021,22.3244614 ]
     },
     "properties": {
+    "id":308,
     "Name":"Broadway Theatre Kowloon Bay",
     "year_open":1996,
     "year_closed":2009,
@@ -4936,6 +5244,7 @@
        "coordinates":  [ 114.0356451,22.4453148 ]
     },
     "properties": {
+    "id":309,
     "Name":"Broadway Theatre-Yuen Long",
     "year_open":1996,
     "year_closed":0,
@@ -4952,6 +5261,7 @@
        "coordinates":  [ 114.167832,22.3275524 ]
     },
     "properties": {
+    "id":310,
     "Name":"Golden Crown Cinema",
     "year_open":1996,
     "year_closed":1996,
@@ -4968,6 +5278,7 @@
        "coordinates":  [ 114.1868134,22.3793495 ]
     },
     "properties": {
+    "id":311,
     "Name":"Hilton Plaza Cinema",
     "year_open":1996,
     "year_closed":2006,
@@ -4984,6 +5295,7 @@
        "coordinates":  [ 114.2175951,22.2856337 ]
     },
     "properties": {
+    "id":312,
     "Name":"Movie Movie Cityplaza",
     "year_open":1996,
     "year_closed":0,
@@ -5000,6 +5312,7 @@
        "coordinates":  [ 114.188216,22.330988 ]
     },
     "properties": {
+    "id":313,
     "Name":"UA Kowloon Theatre",
     "year_open":1996,
     "year_closed":1999,
@@ -5016,6 +5329,7 @@
        "coordinates":  [ 114.1868973,22.2797079 ]
     },
     "properties": {
+    "id":314,
     "Name":"BM-Causeway Bay Cinema",
     "year_open":1997,
     "year_closed":2000,
@@ -5032,6 +5346,7 @@
        "coordinates":  [ 114.202312,22.340704 ]
     },
     "properties": {
+    "id":315,
     "Name":"Broadway Hollywood Cinema",
     "year_open":1997,
     "year_closed":0,
@@ -5048,6 +5363,7 @@
        "coordinates":  [ 114.171981,22.323 ]
     },
     "properties": {
+    "id":316,
     "Name":"Golden Harvest Mong Kok Cinema / 嘉禾旺角電影城",
     "year_open":1997,
     "year_closed":2013,
@@ -5064,6 +5380,7 @@
        "coordinates":  [ 114.1744322,22.337381 ]
     },
     "properties": {
+    "id":317,
     "Name":"AMC Festival Walk Cinema / AMC 又一城戲院",
     "year_open":1998,
     "year_closed":2016,
@@ -5080,6 +5397,7 @@
        "coordinates":  [ 114.1744322,22.337381 ]
     },
     "properties": {
+    "id":318,
     "Name":"Festival Grand Cinema",
     "year_open":1998,
     "year_closed":0,
@@ -5096,6 +5414,7 @@
        "coordinates":  [ 114.0037781,22.4572699 ]
     },
     "properties": {
+    "id":319,
     "Name":"Broadway Theatre-Kingswood Plaza",
     "year_open":1999,
     "year_closed":0,
@@ -5112,6 +5431,7 @@
        "coordinates":  [ 114.1858639,22.2808808 ]
     },
     "properties": {
+    "id":320,
     "Name":"Cinema City-JP",
     "year_open":1999,
     "year_closed":0,
@@ -5128,6 +5448,7 @@
        "coordinates":  [ 114.1902873,22.3047355 ]
     },
     "properties": {
+    "id":321,
     "Name":"Cinemetro",
     "year_open":1999,
     "year_closed":2001,
@@ -5144,6 +5465,7 @@
        "coordinates":  [ 114.1081419,22.3584265 ]
     },
     "properties": {
+    "id":322,
     "Name":"GH Tsing Yi Multiplex",
     "year_open":1999,
     "year_closed":2018,
@@ -5160,6 +5482,7 @@
        "coordinates":  [ 114.2587376,22.3221974 ]
     },
     "properties": {
+    "id":323,
     "Name":"MCL Metro City Cinema",
     "year_open":2000,
     "year_closed":0,
@@ -5176,6 +5499,7 @@
        "coordinates":  [ 113.9405428,22.2896486 ]
     },
     "properties": {
+    "id":324,
     "Name":"UA-Citygate",
     "year_open":2000,
     "year_closed":2016,
@@ -5192,6 +5516,7 @@
        "coordinates":  [ 114.1897303,22.2799153 ]
     },
     "properties": {
+    "id":325,
     "Name":"Hong Kong Central Library Lectur...",
     "year_open":2001,
     "year_closed":0,
@@ -5208,6 +5533,7 @@
        "coordinates":  [ 114.2220069,22.2850681 ]
     },
     "properties": {
+    "id":326,
     "Name":"Hong Kong Film Archive Cinema",
     "year_open":2001,
     "year_closed":0,
@@ -5224,6 +5550,7 @@
        "coordinates":  [ 114.1338278,22.2865869 ]
     },
     "properties": {
+    "id":327,
     "Name":"Kam Ling Theatre (Queen's Road East)",
     "year_open":2001,
     "year_closed":2001,
@@ -5240,6 +5567,7 @@
        "coordinates":  [ 114.1619682,22.3172044 ]
     },
     "properties": {
+    "id":328,
     "Name":"Sky (Olympian City)",
     "year_open":2001,
     "year_closed":0,
@@ -5256,6 +5584,7 @@
        "coordinates":  [ 114.1588412,22.2851589 ]
     },
     "properties": {
+    "id":329,
     "Name":"Palace-IFC",
     "year_open":2003,
     "year_closed":0,
@@ -5272,6 +5601,7 @@
        "coordinates":  [ 114.130069,22.262673 ]
     },
     "properties": {
+    "id":330,
     "Name":"Broadway Cyberport Cinema",
     "year_open":2004,
     "year_closed":2020,
@@ -5288,6 +5618,7 @@
        "coordinates":  [ 114.16865,22.318173 ]
     },
     "properties": {
+    "id":331,
     "Name":"Cinema City Langham Place",
     "year_open":2004,
     "year_closed":0,
@@ -5304,6 +5635,7 @@
        "coordinates":  [ 114.1642913,22.2794683 ]
     },
     "properties": {
+    "id":332,
     "Name":"Open Air Cinema, Tamar",
     "year_open":2004,
     "year_closed":2005,
@@ -5320,6 +5652,7 @@
        "coordinates":  [ 114.1653936,22.2776447 ]
     },
     "properties": {
+    "id":333,
     "Name":"Movie, Movie Pacific Place",
     "year_open":2006,
     "year_closed":0,
@@ -5336,6 +5669,7 @@
        "coordinates":  [ 114.1679298,22.3030576 ]
     },
     "properties": {
+    "id":334,
     "Name":"Drive-In",
     "year_open":2007,
     "year_closed":2007,
@@ -5352,6 +5686,7 @@
        "coordinates":  [ 114.1630017,22.3031132 ]
     },
     "properties": {
+    "id":335,
     "Name":"Grand Cinema",
     "year_open":2007,
     "year_closed":0,
@@ -5368,6 +5703,7 @@
        "coordinates":  [ 113.9377118,22.3163316 ]
     },
     "properties": {
+    "id":336,
     "Name":"MCL 4D Extreme Screen (Airport)",
     "year_open":2007,
     "year_closed":2012,
@@ -5384,6 +5720,7 @@
        "coordinates":  [ 114.1307875,22.2622434 ]
     },
     "properties": {
+    "id":337,
     "Name":"Moonlight Movies",
     "year_open":2007,
     "year_closed":2009,
@@ -5400,6 +5737,7 @@
        "coordinates":  [ 113.9377118,22.3163316 ]
     },
     "properties": {
+    "id":338,
     "Name":"UA IMAX Theatre @ Airport",
     "year_open":2007,
     "year_closed":2019,
@@ -5416,6 +5754,7 @@
        "coordinates":  [ 114.2084331,22.3199795 ]
     },
     "properties": {
+    "id":339,
     "Name":"UA MegaBox Cinema",
     "year_open":2007,
     "year_closed":0,
@@ -5432,6 +5771,7 @@
        "coordinates":  [ 113.9770604,22.3934912 ]
     },
     "properties": {
+    "id":340,
     "Name":"UA TMT Plaza Cinema",
     "year_open":2007,
     "year_closed":2018,
@@ -5448,6 +5788,7 @@
        "coordinates":  [ 114.1389799,22.3691614 ]
     },
     "properties": {
+    "id":341,
     "Name":"Global Art Centre",
     "year_open":2008,
     "year_closed":2010,
@@ -5464,6 +5805,7 @@
        "coordinates":  [ 114.2080748,22.290318 ]
     },
     "properties": {
+    "id":342,
     "Name":"HKFYG Theatre",
     "year_open":2008,
     "year_closed":0,
@@ -5480,6 +5822,7 @@
        "coordinates":  [ 114.2125663,22.3243965 ]
     },
     "properties": {
+    "id":343,
     "Name":"MCL Telford Cinema",
     "year_open":2008,
     "year_closed":0,
@@ -5496,6 +5839,7 @@
        "coordinates":  [ 114.1718959,22.297025 ]
     },
     "properties": {
+    "id":344,
     "Name":"UA-iSQUARE Cinema",
     "year_open":2009,
     "year_closed":2019,
@@ -5512,6 +5856,7 @@
        "coordinates":  [ 114.114728,22.368025 ]
     },
     "properties": {
+    "id":345,
     "Name":"Emperor Cinemas@Citywalk",
     "year_open":2010,
     "year_closed":0,
@@ -5528,6 +5873,7 @@
        "coordinates":  [ 114.259068,22.307521 ]
     },
     "properties": {
+    "id":346,
     "Name":"Star Cinema",
     "year_open":2012,
     "year_closed":0,
@@ -5544,6 +5890,7 @@
        "coordinates":  [ 114.1821587,22.2781357 ]
     },
     "properties": {
+    "id":347,
     "Name":"UA-Cine Times",
     "year_open":2013,
     "year_closed":0,
@@ -5560,6 +5907,7 @@
        "coordinates":  [ 114.165206,22.302636 ]
     },
     "properties": {
+    "id":348,
     "Name":"West Kowloon Bamboo Theatre 2014",
     "year_open":2014,
     "year_closed":2014,
@@ -5576,6 +5924,7 @@
        "coordinates":  [ 114.1365101,22.2867584 ]
     },
     "properties": {
+    "id":349,
     "Name":"Whitty Street Tram Dept Open Air...",
     "year_open":2014,
     "year_closed":2014,
@@ -5592,6 +5941,7 @@
        "coordinates":  [ 114.1401071,22.4918335 ]
     },
     "properties": {
+    "id":350,
     "Name":"GH Fanling Cinema",
     "year_open":2016,
     "year_closed":0,
@@ -5608,6 +5958,7 @@
        "coordinates":  [ 114.1483479,22.2433943 ]
     },
     "properties": {
+    "id":351,
     "Name":"MCL-South Horizons Cinema",
     "year_open":2016,
     "year_closed":0,
@@ -5624,6 +5975,7 @@
        "coordinates":  [ 114.111752,22.376195 ]
     },
     "properties": {
+    "id":352,
     "Name":"Candy Park by Cinema City",
     "year_open":2017,
     "year_closed":0,
@@ -5640,6 +5992,7 @@
        "coordinates":  [ 114.1564296,22.2814535 ]
     },
     "properties": {
+    "id":353,
     "Name":"Emperor Cinemas@Entertainment Bu...",
     "year_open":2017,
     "year_closed":0,
@@ -5656,6 +6009,7 @@
        "coordinates":  [ 114.1458862,22.5010014 ]
     },
     "properties": {
+    "id":354,
     "Name":"MCL-Green Code Cinema-Fanling",
     "year_open":2017,
     "year_closed":0,
@@ -5672,6 +6026,7 @@
        "coordinates":  [ 114.037193,22.444396 ]
     },
     "properties": {
+    "id":355,
     "Name":"My Cinema Yoho Mall",
     "year_open":2017,
     "year_closed":0,
@@ -5688,6 +6043,7 @@
        "coordinates":  [ 114.1475583,22.3360897 ]
     },
     "properties": {
+    "id":356,
     "Name":"CGV Cinemas D2 Place",
     "year_open":2018,
     "year_closed":0,
@@ -5704,6 +6060,7 @@
        "coordinates":  [ 114.1879624,22.3309857 ]
     },
     "properties": {
+    "id":357,
     "Name":"Cine Art House",
     "year_open":2018,
     "year_closed":0,
@@ -5720,6 +6077,7 @@
        "coordinates":  [ 114.1868973,22.2797079 ]
     },
     "properties": {
+    "id":358,
     "Name":"Cinema City Victoria",
     "year_open":2018,
     "year_closed":0,
@@ -5736,6 +6094,7 @@
        "coordinates":  [ 113.9783333,22.3908333 ]
     },
     "properties": {
+    "id":359,
     "Name":"Emperor Cinemas @ Tuen Mun",
     "year_open":2018,
     "year_closed":0,
@@ -5752,6 +6111,7 @@
        "coordinates":  [ 114.1955403,22.3339043 ]
     },
     "properties": {
+    "id":360,
     "Name":"GH Kai Tak Cinema",
     "year_open":2018,
     "year_closed":0,
@@ -5768,6 +6128,7 @@
        "coordinates":  [ 114.1886372,22.3817578 ]
     },
     "properties": {
+    "id":361,
     "Name":"Movie Town",
     "year_open":2018,
     "year_closed":0,
@@ -5784,6 +6145,7 @@
        "coordinates":  [ 113.976655,22.392641 ]
     },
     "properties": {
+    "id":362,
     "Name":"StagE",
     "year_open":2018,
     "year_closed":0,
@@ -5800,6 +6162,7 @@
        "coordinates":  [ 114.1539743,22.2813608 ]
     },
     "properties": {
+    "id":363,
     "Name":"Tai Kwun JC Cube",
     "year_open":2018,
     "year_closed":0,
@@ -5816,6 +6179,7 @@
        "coordinates":  [ 114.1069973,22.3600644 ]
     },
     "properties": {
+    "id":364,
     "Name":"UA Maritime",
     "year_open":2018,
     "year_closed":0,
@@ -5832,6 +6196,7 @@
        "coordinates":  [ 113.9411076,22.2902479 ]
     },
     "properties": {
+    "id":365,
     "Name":"UA- Citygate",
     "year_open":2018,
     "year_closed":0,
@@ -5848,6 +6213,7 @@
        "coordinates":  [ 114.2167824,22.3242276 ]
     },
     "properties": {
+    "id":366,
     "Name":"UA-Amoy",
     "year_open":2018,
     "year_closed":0,
@@ -5864,6 +6230,7 @@
        "coordinates":  [ 114.1260223,22.3496107 ]
     },
     "properties": {
+    "id":367,
     "Name":"BMCPC Asbury Community Cinema",
     "year_open":2019,
     "year_closed":0,
@@ -5880,6 +6247,7 @@
        "coordinates":  [ 114.2313518,22.4237587 ]
     },
     "properties": {
+    "id":368,
     "Name":"Emperor Cinemas @ Ma On Shan",
     "year_open":2019,
     "year_closed":0,
@@ -5896,6 +6264,7 @@
        "coordinates":  [ 114.1718959,22.297025 ]
     },
     "properties": {
+    "id":369,
     "Name":"Emperor Cinemas@iSquare",
     "year_open":2019,
     "year_closed":0,
@@ -5912,6 +6281,7 @@
        "coordinates":  [ 114.1545377,22.3271856 ]
     },
     "properties": {
+    "id":370,
     "Name":"Golden Harvest V Walk Cinema",
     "year_open":2019,
     "year_closed":0,
@@ -5928,6 +6298,7 @@
        "coordinates":  [ 114.1744787,22.2951321 ]
     },
     "properties": {
+    "id":371,
     "Name":"K 11 Art House",
     "year_open":2019,
     "year_closed":0,
@@ -5944,6 +6315,7 @@
        "coordinates":  [ 114.1708277,22.2801464 ]
     },
     "properties": {
+    "id":372,
     "Name":"Louis Koo Cinema",
     "year_open":2019,
     "year_closed":0,
@@ -5960,6 +6332,7 @@
        "coordinates":  [ 114.135963,22.365895 ]
     },
     "properties": {
+    "id":373,
     "Name":"Lumen Cinema",
     "year_open":2019,
     "year_closed":0,
@@ -5976,6 +6349,7 @@
        "coordinates":  [ 114.1520369,22.3390858 ]
     },
     "properties": {
+    "id":374,
     "Name":"MCL Cheung Sha Wan Cinema",
     "year_open":2019,
     "year_closed":0,
@@ -5992,6 +6366,7 @@
        "coordinates":  [ 114.1615932,22.3049655 ]
     },
     "properties": {
+    "id":375,
     "Name":"Premiere Elements",
     "year_open":2019,
     "year_closed":0,
